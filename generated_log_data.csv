@@ -1,0 +1,1189 @@
+LogFile,Customer,Serial,LogLine,Message,LogId,Timestamp
+logfile_10.log,Verizon,PDQE861V,60,Data session started,DATA_START,9/26/2024 22:48
+logfile_3.log,Sprint,43W0B39M,178,Signal lost,SIG_LOST,10/13/2024 4:29
+logfile_9.log,Verizon,V955IPO5,112,Signal lost,SIG_LOST,9/29/2024 22:02
+logfile_8.log,AT&T,7Q8YA8ET,845,Battery low,BATT_LOW,10/14/2024 14:21
+logfile_10.log,AT&T,KHXT13HE,185,Signal restored,SIG_REST,9/25/2024 6:03
+logfile_6.log,Verizon,4NOPZN85,861,Data session ended,DATA_END,9/29/2024 6:34
+logfile_9.log,Orange,LW52Q530,495,Firmware updated,FW_UPD,10/17/2024 6:52
+logfile_3.log,Verizon,CKTGUAHV,585,Data session ended,DATA_END,10/13/2024 15:33
+logfile_3.log,Vodafone,OFKQL7RL,28,Connected to network,NET_CONN,9/29/2024 15:59
+logfile_4.log,AT&T,5WF1OQNB,812,Signal restored,SIG_REST,10/6/2024 12:18
+logfile_3.log,China Mobile,SDQVKJ43,816,Signal lost,SIG_LOST,9/25/2024 6:47
+logfile_5.log,Telefonica,53H2Y9YB,538,Signal lost,SIG_LOST,10/17/2024 1:54
+logfile_2.log,China Mobile,6ZX2GSZ9,788,Data session ended,DATA_END,9/28/2024 0:55
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_10.log,Telecom Italia,N73GMTTN,39,Data session started,DATA_START,10/10/2024 8:48
+logfile_7.log,Telefonica,UJ3NIXCH,783,Disconnected from network,NET_DISC,10/8/2024 22:52
+logfile_10.log,Telecom Italia,WMUFWZGT,412,Unauthorized access attempt,SEC_ALERT,9/26/2024 17:03
+logfile_6.log,Telefonica,UF09QWF9,195,Signal lost,SIG_LOST,10/9/2024 13:03
+logfile_2.log,Vodafone,IJ8AQF4U,899,Signal lost,SIG_LOST,10/9/2024 13:22
+logfile_7.log,Orange,296XIB8M,99,Disconnected from network,NET_DISC,9/29/2024 20:42
+logfile_10.log,Orange,43A35H5P,691,Disconnected from network,NET_DISC,10/11/2024 13:23
+logfile_10.log,Deutsche Telekom,9RQR2S9L,779,Data session started,DATA_START,10/15/2024 8:42
+logfile_1.log,Deutsche Telekom,7GG7A753,129,Unauthorized access attempt,SEC_ALERT,10/19/2024 18:12
+logfile_2.log,Telecom Italia,EILWNKQB,802,Data session ended,DATA_END,9/30/2024 11:06
+logfile_3.log,Verizon,WZ66K6L1,859,Connected to network,NET_CONN,9/29/2024 17:26
+logfile_1.log,Telefonica,1KOQU76W,476,Disconnected from network,NET_DISC,9/26/2024 3:34
+logfile_1.log,Deutsche Telekom,1RL2RVP2,67,Disconnected from network,NET_DISC,10/20/2024 21:22
+logfile_2.log,Sprint,H236V5RR,470,Signal lost,SIG_LOST,10/19/2024 8:15
+logfile_8.log,Vodafone,BF5VXP3D,18,Connected to network,NET_CONN,10/24/2024 17:14
+logfile_2.log,Deutsche Telekom,NJU8RXFV,733,Battery charging,BATT_CHRG,9/25/2024 14:41
+logfile_6.log,AT&T,9KT6MGB9,277,Firmware updated,FW_UPD,10/5/2024 16:24
+logfile_3.log,Orange,U8WLSCRR,843,Battery charging,BATT_CHRG,10/11/2024 21:55
+logfile_8.log,Deutsche Telekom,LB99G4VZ,427,Signal restored,SIG_REST,9/26/2024 5:21
+logfile_8.log,Vodafone,VBDUZITP,113,Unauthorized access attempt,SEC_ALERT,9/28/2024 20:07
+logfile_7.log,China Mobile,T5LWSK96,668,Unauthorized access attempt,SEC_ALERT,10/18/2024 1:37
+logfile_5.log,Verizon,EX77EFI5,223,Disconnected from network,NET_DISC,10/21/2024 9:26
+logfile_1.log,Vodafone,YM1IKXCT,506,Data session ended,DATA_END,9/27/2024 21:40
+logfile_2.log,Vodafone,TIV623B0,304,Data session ended,DATA_END,10/23/2024 11:20
+logfile_1.log,Deutsche Telekom,VG6K7EU0,228,Battery charging,BATT_CHRG,10/1/2024 11:05
+logfile_4.log,Orange,ZCF86UT2,331,Disconnected from network,NET_DISC,10/13/2024 6:08
+logfile_8.log,Telecom Italia,MSX0EGZS,167,Disconnected from network,NET_DISC,10/22/2024 3:37
+logfile_5.log,Telefonica,SMEIZGXJ,490,Firmware updated,FW_UPD,9/25/2024 10:53
+logfile_3.log,Orange,MV4PFYHJ,607,Connected to network,NET_CONN,10/9/2024 19:58
+logfile_6.log,China Mobile,F0FVKDW7,147,Signal restored,SIG_REST,10/23/2024 13:01
+logfile_9.log,Sprint,WXQQBSXK,769,Data session ended,DATA_END,10/24/2024 6:36
+logfile_3.log,Deutsche Telekom,O4WSEO1T,849,Firmware updated,FW_UPD,10/6/2024 17:14
+logfile_4.log,China Mobile,P0YUVAAE,809,Disconnected from network,NET_DISC,10/15/2024 21:21
+logfile_10.log,Orange,EOFMU7JH,7,Data session ended,DATA_END,10/3/2024 21:54
+logfile_5.log,AT&T,0PTLGQQU,887,Connected to network,NET_CONN,10/4/2024 23:20
+logfile_2.log,Orange,3J5I05DR,174,Data session ended,DATA_END,10/14/2024 15:01
+logfile_6.log,Deutsche Telekom,ESQUZD6Z,212,Data session ended,DATA_END,10/13/2024 13:54
+logfile_3.log,Orange,Y8J05NSC,367,Data session ended,DATA_END,10/23/2024 19:55
+logfile_10.log,Vodafone,D7TFZHW7,46,Battery low,BATT_LOW,10/14/2024 12:14
+logfile_4.log,Telefonica,PUO1YPZF,479,Signal restored,SIG_REST,9/30/2024 23:41
+logfile_10.log,T-Mobile,ZE3Z5DKP,323,Disconnected from network,NET_DISC,10/1/2024 12:02
+logfile_3.log,China Mobile,VI55SX0V,21,Battery low,BATT_LOW,9/26/2024 19:44
+logfile_8.log,T-Mobile,5SGV41PR,46,Disconnected from network,NET_DISC,10/9/2024 0:32
+logfile_6.log,China Mobile,YBB9W6J0,384,Data session started,DATA_START,10/14/2024 8:11
+logfile_6.log,T-Mobile,Z5WQAIF5,348,Battery low,BATT_LOW,10/9/2024 11:28
+logfile_8.log,Vodafone,JHGM9AFG,754,Firmware updated,FW_UPD,10/5/2024 11:27
+logfile_4.log,Telefonica,SYGTEKFX,478,Connected to network,NET_CONN,10/25/2024 3:29
+logfile_4.log,Telecom Italia,XH1U86FZ,828,Connected to network,NET_CONN,10/23/2024 10:47
+logfile_9.log,Deutsche Telekom,RLX7J064,148,Unauthorized access attempt,SEC_ALERT,10/3/2024 15:56
+logfile_3.log,Verizon,6WEFRCOR,307,Disconnected from network,NET_DISC,10/9/2024 10:03
+logfile_7.log,T-Mobile,HB1N4IKD,39,Data session ended,DATA_END,9/24/2024 16:50
+logfile_10.log,T-Mobile,KPTP4SAV,265,Signal lost,SIG_LOST,9/25/2024 17:05
+logfile_4.log,Deutsche Telekom,OH1A3OJU,209,Disconnected from network,NET_DISC,10/24/2024 6:00
+logfile_3.log,Telecom Italia,VF9YTYMJ,690,Battery charging,BATT_CHRG,9/25/2024 2:49
+logfile_8.log,China Mobile,ZZOHSWGJ,721,Disconnected from network,NET_DISC,10/22/2024 18:26
+logfile_4.log,AT&T,419JL287,663,Battery charging,BATT_CHRG,10/21/2024 21:53
+logfile_4.log,AT&T,PQX1SQKZ,40,Disconnected from network,NET_DISC,9/24/2024 23:37
+logfile_6.log,Telefonica,5FVR5Q7X,886,Battery charging,BATT_CHRG,10/25/2024 6:46
+logfile_8.log,Deutsche Telekom,P7MH88E1,870,Disconnected from network,NET_DISC,10/22/2024 8:53
+logfile_6.log,Sprint,BD4421D4,928,Unauthorized access attempt,SEC_ALERT,10/11/2024 18:20
+logfile_5.log,Sprint,IBN2J1S9,320,Data session started,DATA_START,10/19/2024 22:55
+logfile_2.log,Deutsche Telekom,OF53JK8W,792,Signal lost,SIG_LOST,10/9/2024 19:52
+logfile_1.log,Telecom Italia,9NTBG80H,257,Connected to network,NET_CONN,10/2/2024 15:02
+logfile_6.log,China Mobile,N1JHG3RG,282,Unauthorized access attempt,SEC_ALERT,9/25/2024 20:28
+logfile_1.log,Vodafone,4FPFSO5C,334,Unauthorized access attempt,SEC_ALERT,10/18/2024 16:54
+logfile_8.log,Vodafone,BP5T7E0V,890,Battery charging,BATT_CHRG,10/13/2024 20:31
+logfile_2.log,Vodafone,ACGYLCM9,675,Disconnected from network,NET_DISC,10/13/2024 14:14
+logfile_5.log,Sprint,BVEUTUMP,731,Data session started,DATA_START,10/8/2024 5:57
+logfile_2.log,Telecom Italia,K37NB0HV,736,Battery charging,BATT_CHRG,10/22/2024 9:13
+logfile_7.log,AT&T,ZPOJ1HV7,664,Signal restored,SIG_REST,10/12/2024 9:56
+logfile_10.log,Sprint,KRODMG6Y,354,Battery low,BATT_LOW,10/5/2024 0:55
+logfile_4.log,Verizon,WIP0AFCU,279,Data session started,DATA_START,9/27/2024 16:00
+logfile_7.log,Telefonica,CF13N5ID,300,Firmware updated,FW_UPD,9/30/2024 3:07
+logfile_10.log,AT&T,4YUL85WR,544,Connected to network,NET_CONN,10/6/2024 8:59
+logfile_8.log,T-Mobile,C0AML14W,880,Data session started,DATA_START,9/30/2024 17:40
+logfile_6.log,Vodafone,M6NVUMZH,846,Disconnected from network,NET_DISC,9/27/2024 14:17
+logfile_7.log,T-Mobile,GXDUKC2N,866,Unauthorized access attempt,SEC_ALERT,10/9/2024 9:06
+logfile_2.log,AT&T,EWD573F9,473,Unauthorized access attempt,SEC_ALERT,9/24/2024 17:17
+logfile_4.log,Verizon,PJO4UDD9,388,Battery low,BATT_LOW,9/30/2024 7:51
+logfile_8.log,Vodafone,VZJE81Y9,800,Connected to network,NET_CONN,10/12/2024 1:21
+logfile_1.log,Orange,FKQJQ5QY,337,Unauthorized access attempt,SEC_ALERT,10/6/2024 12:51
+logfile_10.log,Telefonica,4FFSX4SH,935,Data session started,DATA_START,10/15/2024 19:22
+logfile_9.log,Verizon,VMTA34FC,878,Unauthorized access attempt,SEC_ALERT,10/16/2024 19:57
+logfile_3.log,Vodafone,LG2FMOK5,525,Battery charging,BATT_CHRG,10/3/2024 12:55
+logfile_10.log,Verizon,4YE5CJR0,644,Signal restored,SIG_REST,10/18/2024 18:10
+logfile_5.log,T-Mobile,26R7EK0S,223,Signal lost,SIG_LOST,10/4/2024 8:57
+logfile_10.log,Verizon,PDQE861V,60,Data session started,DATA_START,9/26/2024 22:48
+logfile_3.log,Sprint,43W0B39M,178,Signal lost,SIG_LOST,10/13/2024 4:29
+logfile_9.log,Verizon,V955IPO5,112,Signal lost,SIG_LOST,9/29/2024 22:02
+logfile_8.log,AT&T,7Q8YA8ET,845,Battery low,BATT_LOW,10/14/2024 14:21
+logfile_10.log,AT&T,KHXT13HE,185,Signal restored,SIG_REST,9/25/2024 6:03
+logfile_6.log,Verizon,4NOPZN85,861,Data session ended,DATA_END,9/29/2024 6:34
+logfile_9.log,Orange,LW52Q530,495,Firmware updated,FW_UPD,10/17/2024 6:52
+logfile_3.log,Verizon,CKTGUAHV,585,Data session ended,DATA_END,10/13/2024 15:33
+logfile_3.log,Vodafone,OFKQL7RL,28,Connected to network,NET_CONN,9/29/2024 15:59
+logfile_4.log,AT&T,5WF1OQNB,812,Signal restored,SIG_REST,10/6/2024 12:18
+logfile_3.log,China Mobile,SDQVKJ43,816,Signal lost,SIG_LOST,9/25/2024 6:47
+logfile_5.log,Telefonica,53H2Y9YB,538,Signal lost,SIG_LOST,10/17/2024 1:54
+logfile_2.log,China Mobile,6ZX2GSZ9,788,Data session ended,DATA_END,9/28/2024 0:55
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_10.log,Telecom Italia,N73GMTTN,39,Data session started,DATA_START,10/10/2024 8:48
+logfile_7.log,Telefonica,UJ3NIXCH,783,Disconnected from network,NET_DISC,10/8/2024 22:52
+logfile_10.log,Telecom Italia,WMUFWZGT,412,Unauthorized access attempt,SEC_ALERT,9/26/2024 17:03
+logfile_6.log,Telefonica,UF09QWF9,195,Signal lost,SIG_LOST,10/9/2024 13:03
+logfile_2.log,Vodafone,IJ8AQF4U,899,Signal lost,SIG_LOST,10/9/2024 13:22
+logfile_7.log,Orange,296XIB8M,99,Disconnected from network,NET_DISC,9/29/2024 20:42
+logfile_10.log,Orange,43A35H5P,691,Disconnected from network,NET_DISC,10/11/2024 13:23
+logfile_10.log,Deutsche Telekom,9RQR2S9L,779,Data session started,DATA_START,10/15/2024 8:42
+logfile_1.log,Deutsche Telekom,7GG7A753,129,Unauthorized access attempt,SEC_ALERT,10/19/2024 18:12
+logfile_2.log,Telecom Italia,EILWNKQB,802,Data session ended,DATA_END,9/30/2024 11:06
+logfile_3.log,Verizon,WZ66K6L1,859,Connected to network,NET_CONN,9/29/2024 17:26
+logfile_1.log,Telefonica,1KOQU76W,476,Disconnected from network,NET_DISC,9/26/2024 3:34
+logfile_1.log,Deutsche Telekom,1RL2RVP2,67,Disconnected from network,NET_DISC,10/20/2024 21:22
+logfile_2.log,Sprint,H236V5RR,470,Signal lost,SIG_LOST,10/19/2024 8:15
+logfile_8.log,Vodafone,BF5VXP3D,18,Connected to network,NET_CONN,10/24/2024 17:14
+logfile_2.log,Deutsche Telekom,NJU8RXFV,733,Battery charging,BATT_CHRG,9/25/2024 14:41
+logfile_6.log,AT&T,9KT6MGB9,277,Firmware updated,FW_UPD,10/5/2024 16:24
+logfile_3.log,Orange,U8WLSCRR,843,Battery charging,BATT_CHRG,10/11/2024 21:55
+logfile_8.log,Deutsche Telekom,LB99G4VZ,427,Signal restored,SIG_REST,9/26/2024 5:21
+logfile_8.log,Vodafone,VBDUZITP,113,Unauthorized access attempt,SEC_ALERT,9/28/2024 20:07
+logfile_7.log,China Mobile,T5LWSK96,668,Unauthorized access attempt,SEC_ALERT,10/18/2024 1:37
+logfile_5.log,Verizon,EX77EFI5,223,Disconnected from network,NET_DISC,10/21/2024 9:26
+logfile_1.log,Vodafone,YM1IKXCT,506,Data session ended,DATA_END,9/27/2024 21:40
+logfile_2.log,Vodafone,TIV623B0,304,Data session ended,DATA_END,10/23/2024 11:20
+logfile_1.log,Deutsche Telekom,VG6K7EU0,228,Battery charging,BATT_CHRG,10/1/2024 11:05
+logfile_4.log,Orange,ZCF86UT2,331,Disconnected from network,NET_DISC,10/13/2024 6:08
+logfile_8.log,Telecom Italia,MSX0EGZS,167,Disconnected from network,NET_DISC,10/22/2024 3:37
+logfile_5.log,Telefonica,SMEIZGXJ,490,Firmware updated,FW_UPD,9/25/2024 10:53
+logfile_3.log,Orange,MV4PFYHJ,607,Connected to network,NET_CONN,10/9/2024 19:58
+logfile_6.log,China Mobile,F0FVKDW7,147,Signal restored,SIG_REST,10/23/2024 13:01
+logfile_9.log,Sprint,WXQQBSXK,769,Data session ended,DATA_END,10/24/2024 6:36
+logfile_3.log,Deutsche Telekom,O4WSEO1T,849,Firmware updated,FW_UPD,10/6/2024 17:14
+logfile_4.log,China Mobile,P0YUVAAE,809,Disconnected from network,NET_DISC,10/15/2024 21:21
+logfile_10.log,Orange,EOFMU7JH,7,Data session ended,DATA_END,10/3/2024 21:54
+logfile_5.log,AT&T,0PTLGQQU,887,Connected to network,NET_CONN,10/4/2024 23:20
+logfile_2.log,Orange,3J5I05DR,174,Data session ended,DATA_END,10/14/2024 15:01
+logfile_6.log,Deutsche Telekom,ESQUZD6Z,212,Data session ended,DATA_END,10/13/2024 13:54
+logfile_3.log,Orange,Y8J05NSC,367,Data session ended,DATA_END,10/23/2024 19:55
+logfile_10.log,Vodafone,D7TFZHW7,46,Battery low,BATT_LOW,10/14/2024 12:14
+logfile_4.log,Telefonica,PUO1YPZF,479,Signal restored,SIG_REST,9/30/2024 23:41
+logfile_10.log,T-Mobile,ZE3Z5DKP,323,Disconnected from network,NET_DISC,10/1/2024 12:02
+logfile_3.log,China Mobile,VI55SX0V,21,Battery low,BATT_LOW,9/26/2024 19:44
+logfile_8.log,T-Mobile,5SGV41PR,46,Disconnected from network,NET_DISC,10/9/2024 0:32
+logfile_6.log,China Mobile,YBB9W6J0,384,Data session started,DATA_START,10/14/2024 8:11
+logfile_6.log,T-Mobile,Z5WQAIF5,348,Battery low,BATT_LOW,10/9/2024 11:28
+logfile_8.log,Vodafone,JHGM9AFG,754,Firmware updated,FW_UPD,10/5/2024 11:27
+logfile_4.log,Telefonica,SYGTEKFX,478,Connected to network,NET_CONN,10/25/2024 3:29
+logfile_4.log,Telecom Italia,XH1U86FZ,828,Connected to network,NET_CONN,10/23/2024 10:47
+logfile_9.log,Deutsche Telekom,RLX7J064,148,Unauthorized access attempt,SEC_ALERT,10/3/2024 15:56
+logfile_3.log,Verizon,6WEFRCOR,307,Disconnected from network,NET_DISC,10/9/2024 10:03
+logfile_7.log,T-Mobile,HB1N4IKD,39,Data session ended,DATA_END,9/24/2024 16:50
+logfile_10.log,T-Mobile,KPTP4SAV,265,Signal lost,SIG_LOST,9/25/2024 17:05
+logfile_4.log,Deutsche Telekom,OH1A3OJU,209,Disconnected from network,NET_DISC,10/24/2024 6:00
+logfile_3.log,Telecom Italia,VF9YTYMJ,690,Battery charging,BATT_CHRG,9/25/2024 2:49
+logfile_8.log,China Mobile,ZZOHSWGJ,721,Disconnected from network,NET_DISC,10/22/2024 18:26
+logfile_4.log,AT&T,419JL287,663,Battery charging,BATT_CHRG,10/21/2024 21:53
+logfile_4.log,AT&T,PQX1SQKZ,40,Disconnected from network,NET_DISC,9/24/2024 23:37
+logfile_6.log,Telefonica,5FVR5Q7X,886,Battery charging,BATT_CHRG,10/25/2024 6:46
+logfile_8.log,Deutsche Telekom,P7MH88E1,870,Disconnected from network,NET_DISC,10/22/2024 8:53
+logfile_6.log,Sprint,BD4421D4,928,Unauthorized access attempt,SEC_ALERT,10/11/2024 18:20
+logfile_5.log,Sprint,IBN2J1S9,320,Data session started,DATA_START,10/19/2024 22:55
+logfile_2.log,Deutsche Telekom,OF53JK8W,792,Signal lost,SIG_LOST,10/9/2024 19:52
+logfile_1.log,Telecom Italia,9NTBG80H,257,Connected to network,NET_CONN,10/2/2024 15:02
+logfile_6.log,China Mobile,N1JHG3RG,282,Unauthorized access attempt,SEC_ALERT,9/25/2024 20:28
+logfile_1.log,Vodafone,4FPFSO5C,334,Unauthorized access attempt,SEC_ALERT,10/18/2024 16:54
+logfile_8.log,Vodafone,BP5T7E0V,890,Battery charging,BATT_CHRG,10/13/2024 20:31
+logfile_2.log,Vodafone,ACGYLCM9,675,Disconnected from network,NET_DISC,10/13/2024 14:14
+logfile_5.log,Sprint,BVEUTUMP,731,Data session started,DATA_START,10/8/2024 5:57
+logfile_2.log,Telecom Italia,K37NB0HV,736,Battery charging,BATT_CHRG,10/22/2024 9:13
+logfile_7.log,AT&T,ZPOJ1HV7,664,Signal restored,SIG_REST,10/12/2024 9:56
+logfile_10.log,Sprint,KRODMG6Y,354,Battery low,BATT_LOW,10/5/2024 0:55
+logfile_4.log,Verizon,WIP0AFCU,279,Data session started,DATA_START,9/27/2024 16:00
+logfile_7.log,Telefonica,CF13N5ID,300,Firmware updated,FW_UPD,9/30/2024 3:07
+logfile_10.log,AT&T,4YUL85WR,544,Connected to network,NET_CONN,10/6/2024 8:59
+logfile_8.log,T-Mobile,C0AML14W,880,Data session started,DATA_START,9/30/2024 17:40
+logfile_6.log,Vodafone,M6NVUMZH,846,Disconnected from network,NET_DISC,9/27/2024 14:17
+logfile_7.log,T-Mobile,GXDUKC2N,866,Unauthorized access attempt,SEC_ALERT,10/9/2024 9:06
+logfile_2.log,AT&T,EWD573F9,473,Unauthorized access attempt,SEC_ALERT,9/24/2024 17:17
+logfile_4.log,Verizon,PJO4UDD9,388,Battery low,BATT_LOW,9/30/2024 7:51
+logfile_8.log,Vodafone,VZJE81Y9,800,Connected to network,NET_CONN,10/12/2024 1:21
+logfile_1.log,Orange,FKQJQ5QY,337,Unauthorized access attempt,SEC_ALERT,10/6/2024 12:51
+logfile_10.log,Telefonica,4FFSX4SH,935,Data session started,DATA_START,10/15/2024 19:22
+logfile_9.log,Verizon,VMTA34FC,878,Unauthorized access attempt,SEC_ALERT,10/16/2024 19:57
+logfile_3.log,Vodafone,LG2FMOK5,525,Battery charging,BATT_CHRG,10/3/2024 12:55
+logfile_10.log,Verizon,4YE5CJR0,644,Signal restored,SIG_REST,10/18/2024 18:10
+logfile_5.log,T-Mobile,26R7EK0S,223,Signal lost,SIG_LOST,10/4/2024 8:57
+logfile_10.log,Verizon,PDQE861V,60,Data session started,DATA_START,9/26/2024 22:48
+logfile_3.log,Sprint,43W0B39M,178,Signal lost,SIG_LOST,10/13/2024 4:29
+logfile_9.log,Verizon,V955IPO5,112,Signal lost,SIG_LOST,9/29/2024 22:02
+logfile_8.log,AT&T,7Q8YA8ET,845,Battery low,BATT_LOW,10/14/2024 14:21
+logfile_10.log,AT&T,KHXT13HE,185,Signal restored,SIG_REST,9/25/2024 6:03
+logfile_6.log,Verizon,4NOPZN85,861,Data session ended,DATA_END,9/29/2024 6:34
+logfile_9.log,Orange,LW52Q530,495,Firmware updated,FW_UPD,10/17/2024 6:52
+logfile_3.log,Verizon,CKTGUAHV,585,Data session ended,DATA_END,10/13/2024 15:33
+logfile_3.log,Vodafone,OFKQL7RL,28,Connected to network,NET_CONN,9/29/2024 15:59
+logfile_4.log,AT&T,5WF1OQNB,812,Signal restored,SIG_REST,10/6/2024 12:18
+logfile_3.log,China Mobile,SDQVKJ43,816,Signal lost,SIG_LOST,9/25/2024 6:47
+logfile_5.log,Telefonica,53H2Y9YB,538,Signal lost,SIG_LOST,10/17/2024 1:54
+logfile_2.log,China Mobile,6ZX2GSZ9,788,Data session ended,DATA_END,9/28/2024 0:55
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_10.log,Telecom Italia,N73GMTTN,39,Data session started,DATA_START,10/10/2024 8:48
+logfile_7.log,Telefonica,UJ3NIXCH,783,Disconnected from network,NET_DISC,10/8/2024 22:52
+logfile_10.log,Telecom Italia,WMUFWZGT,412,Unauthorized access attempt,SEC_ALERT,9/26/2024 17:03
+logfile_6.log,Telefonica,UF09QWF9,195,Signal lost,SIG_LOST,10/9/2024 13:03
+logfile_2.log,Vodafone,IJ8AQF4U,899,Signal lost,SIG_LOST,10/9/2024 13:22
+logfile_7.log,Orange,296XIB8M,99,Disconnected from network,NET_DISC,9/29/2024 20:42
+logfile_10.log,Orange,43A35H5P,691,Disconnected from network,NET_DISC,10/11/2024 13:23
+logfile_10.log,Deutsche Telekom,9RQR2S9L,779,Data session started,DATA_START,10/15/2024 8:42
+logfile_1.log,Deutsche Telekom,7GG7A753,129,Unauthorized access attempt,SEC_ALERT,10/19/2024 18:12
+logfile_2.log,Telecom Italia,EILWNKQB,802,Data session ended,DATA_END,9/30/2024 11:06
+logfile_3.log,Verizon,WZ66K6L1,859,Connected to network,NET_CONN,9/29/2024 17:26
+logfile_1.log,Telefonica,1KOQU76W,476,Disconnected from network,NET_DISC,9/26/2024 3:34
+logfile_1.log,Deutsche Telekom,1RL2RVP2,67,Disconnected from network,NET_DISC,10/20/2024 21:22
+logfile_2.log,Sprint,H236V5RR,470,Signal lost,SIG_LOST,10/19/2024 8:15
+logfile_8.log,Vodafone,BF5VXP3D,18,Connected to network,NET_CONN,10/24/2024 17:14
+logfile_2.log,Deutsche Telekom,NJU8RXFV,733,Battery charging,BATT_CHRG,9/25/2024 14:41
+logfile_6.log,AT&T,9KT6MGB9,277,Firmware updated,FW_UPD,10/5/2024 16:24
+logfile_3.log,Orange,U8WLSCRR,843,Battery charging,BATT_CHRG,10/11/2024 21:55
+logfile_8.log,Deutsche Telekom,LB99G4VZ,427,Signal restored,SIG_REST,9/26/2024 5:21
+logfile_8.log,Vodafone,VBDUZITP,113,Unauthorized access attempt,SEC_ALERT,9/28/2024 20:07
+logfile_7.log,China Mobile,T5LWSK96,668,Unauthorized access attempt,SEC_ALERT,10/18/2024 1:37
+logfile_5.log,Verizon,EX77EFI5,223,Disconnected from network,NET_DISC,10/21/2024 9:26
+logfile_1.log,Vodafone,YM1IKXCT,506,Data session ended,DATA_END,9/27/2024 21:40
+logfile_2.log,Vodafone,TIV623B0,304,Data session ended,DATA_END,10/23/2024 11:20
+logfile_1.log,Deutsche Telekom,VG6K7EU0,228,Battery charging,BATT_CHRG,10/1/2024 11:05
+logfile_4.log,Orange,ZCF86UT2,331,Disconnected from network,NET_DISC,10/13/2024 6:08
+logfile_8.log,Telecom Italia,MSX0EGZS,167,Disconnected from network,NET_DISC,10/22/2024 3:37
+logfile_5.log,Telefonica,SMEIZGXJ,490,Firmware updated,FW_UPD,9/25/2024 10:53
+logfile_3.log,Orange,MV4PFYHJ,607,Connected to network,NET_CONN,10/9/2024 19:58
+logfile_6.log,China Mobile,F0FVKDW7,147,Signal restored,SIG_REST,10/23/2024 13:01
+logfile_9.log,Sprint,WXQQBSXK,769,Data session ended,DATA_END,10/24/2024 6:36
+logfile_3.log,Deutsche Telekom,O4WSEO1T,849,Firmware updated,FW_UPD,10/6/2024 17:14
+logfile_4.log,China Mobile,P0YUVAAE,809,Disconnected from network,NET_DISC,10/15/2024 21:21
+logfile_10.log,Orange,EOFMU7JH,7,Data session ended,DATA_END,10/3/2024 21:54
+logfile_5.log,AT&T,0PTLGQQU,887,Connected to network,NET_CONN,10/4/2024 23:20
+logfile_2.log,Orange,3J5I05DR,174,Data session ended,DATA_END,10/14/2024 15:01
+logfile_6.log,Deutsche Telekom,ESQUZD6Z,212,Data session ended,DATA_END,10/13/2024 13:54
+logfile_3.log,Orange,Y8J05NSC,367,Data session ended,DATA_END,10/23/2024 19:55
+logfile_10.log,Vodafone,D7TFZHW7,46,Battery low,BATT_LOW,10/14/2024 12:14
+logfile_4.log,Telefonica,PUO1YPZF,479,Signal restored,SIG_REST,9/30/2024 23:41
+logfile_10.log,T-Mobile,ZE3Z5DKP,323,Disconnected from network,NET_DISC,10/1/2024 12:02
+logfile_3.log,China Mobile,VI55SX0V,21,Battery low,BATT_LOW,9/26/2024 19:44
+logfile_8.log,T-Mobile,5SGV41PR,46,Disconnected from network,NET_DISC,10/9/2024 0:32
+logfile_6.log,China Mobile,YBB9W6J0,384,Data session started,DATA_START,10/14/2024 8:11
+logfile_6.log,T-Mobile,Z5WQAIF5,348,Battery low,BATT_LOW,10/9/2024 11:28
+logfile_8.log,Vodafone,JHGM9AFG,754,Firmware updated,FW_UPD,10/5/2024 11:27
+logfile_4.log,Telefonica,SYGTEKFX,478,Connected to network,NET_CONN,10/25/2024 3:29
+logfile_4.log,Telecom Italia,XH1U86FZ,828,Connected to network,NET_CONN,10/23/2024 10:47
+logfile_9.log,Deutsche Telekom,RLX7J064,148,Unauthorized access attempt,SEC_ALERT,10/3/2024 15:56
+logfile_3.log,Verizon,6WEFRCOR,307,Disconnected from network,NET_DISC,10/9/2024 10:03
+logfile_7.log,T-Mobile,HB1N4IKD,39,Data session ended,DATA_END,9/24/2024 16:50
+logfile_10.log,T-Mobile,KPTP4SAV,265,Signal lost,SIG_LOST,9/25/2024 17:05
+logfile_4.log,Deutsche Telekom,OH1A3OJU,209,Disconnected from network,NET_DISC,10/24/2024 6:00
+logfile_3.log,Telecom Italia,VF9YTYMJ,690,Battery charging,BATT_CHRG,9/25/2024 2:49
+logfile_8.log,China Mobile,ZZOHSWGJ,721,Disconnected from network,NET_DISC,10/22/2024 18:26
+logfile_4.log,AT&T,419JL287,663,Battery charging,BATT_CHRG,10/21/2024 21:53
+logfile_4.log,AT&T,PQX1SQKZ,40,Disconnected from network,NET_DISC,9/24/2024 23:37
+logfile_6.log,Telefonica,5FVR5Q7X,886,Battery charging,BATT_CHRG,10/25/2024 6:46
+logfile_8.log,Deutsche Telekom,P7MH88E1,870,Disconnected from network,NET_DISC,10/22/2024 8:53
+logfile_6.log,Sprint,BD4421D4,928,Unauthorized access attempt,SEC_ALERT,10/11/2024 18:20
+logfile_5.log,Sprint,IBN2J1S9,320,Data session started,DATA_START,10/19/2024 22:55
+logfile_2.log,Deutsche Telekom,OF53JK8W,792,Signal lost,SIG_LOST,10/9/2024 19:52
+logfile_1.log,Telecom Italia,9NTBG80H,257,Connected to network,NET_CONN,10/2/2024 15:02
+logfile_6.log,China Mobile,N1JHG3RG,282,Unauthorized access attempt,SEC_ALERT,9/25/2024 20:28
+logfile_1.log,Vodafone,4FPFSO5C,334,Unauthorized access attempt,SEC_ALERT,10/18/2024 16:54
+logfile_8.log,Vodafone,BP5T7E0V,890,Battery charging,BATT_CHRG,10/13/2024 20:31
+logfile_2.log,Vodafone,ACGYLCM9,675,Disconnected from network,NET_DISC,10/13/2024 14:14
+logfile_5.log,Sprint,BVEUTUMP,731,Data session started,DATA_START,10/8/2024 5:57
+logfile_2.log,Telecom Italia,K37NB0HV,736,Battery charging,BATT_CHRG,10/22/2024 9:13
+logfile_7.log,AT&T,ZPOJ1HV7,664,Signal restored,SIG_REST,10/12/2024 9:56
+logfile_10.log,Sprint,KRODMG6Y,354,Battery low,BATT_LOW,10/5/2024 0:55
+logfile_4.log,Verizon,WIP0AFCU,279,Data session started,DATA_START,9/27/2024 16:00
+logfile_7.log,Telefonica,CF13N5ID,300,Firmware updated,FW_UPD,9/30/2024 3:07
+logfile_10.log,AT&T,4YUL85WR,544,Connected to network,NET_CONN,10/6/2024 8:59
+logfile_8.log,T-Mobile,C0AML14W,880,Data session started,DATA_START,9/30/2024 17:40
+logfile_6.log,Vodafone,M6NVUMZH,846,Disconnected from network,NET_DISC,9/27/2024 14:17
+logfile_7.log,T-Mobile,GXDUKC2N,866,Unauthorized access attempt,SEC_ALERT,10/9/2024 9:06
+logfile_2.log,AT&T,EWD573F9,473,Unauthorized access attempt,SEC_ALERT,9/24/2024 17:17
+logfile_4.log,Verizon,PJO4UDD9,388,Battery low,BATT_LOW,9/30/2024 7:51
+logfile_8.log,Vodafone,VZJE81Y9,800,Connected to network,NET_CONN,10/12/2024 1:21
+logfile_1.log,Orange,FKQJQ5QY,337,Unauthorized access attempt,SEC_ALERT,10/6/2024 12:51
+logfile_10.log,Telefonica,4FFSX4SH,935,Data session started,DATA_START,10/15/2024 19:22
+logfile_9.log,Verizon,VMTA34FC,878,Unauthorized access attempt,SEC_ALERT,10/16/2024 19:57
+logfile_3.log,Vodafone,LG2FMOK5,525,Battery charging,BATT_CHRG,10/3/2024 12:55
+logfile_10.log,Verizon,4YE5CJR0,644,Signal restored,SIG_REST,10/18/2024 18:10
+logfile_5.log,T-Mobile,26R7EK0S,223,Signal lost,SIG_LOST,10/4/2024 8:57
+logfile_10.log,Verizon,PDQE861V,60,Data session started,DATA_START,9/26/2024 22:48
+logfile_3.log,Sprint,43W0B39M,178,Signal lost,SIG_LOST,10/13/2024 4:29
+logfile_9.log,Verizon,V955IPO5,112,Signal lost,SIG_LOST,9/29/2024 22:02
+logfile_8.log,AT&T,7Q8YA8ET,845,Battery low,BATT_LOW,10/14/2024 14:21
+logfile_10.log,AT&T,KHXT13HE,185,Signal restored,SIG_REST,9/25/2024 6:03
+logfile_6.log,Verizon,4NOPZN85,861,Data session ended,DATA_END,9/29/2024 6:34
+logfile_9.log,Orange,LW52Q530,495,Firmware updated,FW_UPD,10/17/2024 6:52
+logfile_3.log,Verizon,CKTGUAHV,585,Data session ended,DATA_END,10/13/2024 15:33
+logfile_3.log,Vodafone,OFKQL7RL,28,Connected to network,NET_CONN,9/29/2024 15:59
+logfile_4.log,AT&T,5WF1OQNB,812,Signal restored,SIG_REST,10/6/2024 12:18
+logfile_3.log,China Mobile,SDQVKJ43,816,Signal lost,SIG_LOST,9/25/2024 6:47
+logfile_5.log,Telefonica,53H2Y9YB,538,Signal lost,SIG_LOST,10/17/2024 1:54
+logfile_2.log,China Mobile,6ZX2GSZ9,788,Data session ended,DATA_END,9/28/2024 0:55
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_10.log,Telecom Italia,N73GMTTN,39,Data session started,DATA_START,10/10/2024 8:48
+logfile_7.log,Telefonica,UJ3NIXCH,783,Disconnected from network,NET_DISC,10/8/2024 22:52
+logfile_10.log,Telecom Italia,WMUFWZGT,412,Unauthorized access attempt,SEC_ALERT,9/26/2024 17:03
+logfile_6.log,Telefonica,UF09QWF9,195,Signal lost,SIG_LOST,10/9/2024 13:03
+logfile_2.log,Vodafone,IJ8AQF4U,899,Signal lost,SIG_LOST,10/9/2024 13:22
+logfile_7.log,Orange,296XIB8M,99,Disconnected from network,NET_DISC,9/29/2024 20:42
+logfile_10.log,Orange,43A35H5P,691,Disconnected from network,NET_DISC,10/11/2024 13:23
+logfile_10.log,Deutsche Telekom,9RQR2S9L,779,Data session started,DATA_START,10/15/2024 8:42
+logfile_1.log,Deutsche Telekom,7GG7A753,129,Unauthorized access attempt,SEC_ALERT,10/19/2024 18:12
+logfile_2.log,Telecom Italia,EILWNKQB,802,Data session ended,DATA_END,9/30/2024 11:06
+logfile_3.log,Verizon,WZ66K6L1,859,Connected to network,NET_CONN,9/29/2024 17:26
+logfile_1.log,Telefonica,1KOQU76W,476,Disconnected from network,NET_DISC,9/26/2024 3:34
+logfile_1.log,Deutsche Telekom,1RL2RVP2,67,Disconnected from network,NET_DISC,10/20/2024 21:22
+logfile_2.log,Sprint,H236V5RR,470,Signal lost,SIG_LOST,10/19/2024 8:15
+logfile_8.log,Vodafone,BF5VXP3D,18,Connected to network,NET_CONN,10/24/2024 17:14
+logfile_2.log,Deutsche Telekom,NJU8RXFV,733,Battery charging,BATT_CHRG,9/25/2024 14:41
+logfile_6.log,AT&T,9KT6MGB9,277,Firmware updated,FW_UPD,10/5/2024 16:24
+logfile_3.log,Orange,U8WLSCRR,843,Battery charging,BATT_CHRG,10/11/2024 21:55
+logfile_8.log,Deutsche Telekom,LB99G4VZ,427,Signal restored,SIG_REST,9/26/2024 5:21
+logfile_8.log,Vodafone,VBDUZITP,113,Unauthorized access attempt,SEC_ALERT,9/28/2024 20:07
+logfile_7.log,China Mobile,T5LWSK96,668,Unauthorized access attempt,SEC_ALERT,10/18/2024 1:37
+logfile_5.log,Verizon,EX77EFI5,223,Disconnected from network,NET_DISC,10/21/2024 9:26
+logfile_1.log,Vodafone,YM1IKXCT,506,Data session ended,DATA_END,9/27/2024 21:40
+logfile_2.log,Vodafone,TIV623B0,304,Data session ended,DATA_END,10/23/2024 11:20
+logfile_1.log,Deutsche Telekom,VG6K7EU0,228,Battery charging,BATT_CHRG,10/1/2024 11:05
+logfile_4.log,Orange,ZCF86UT2,331,Disconnected from network,NET_DISC,10/13/2024 6:08
+logfile_8.log,Telecom Italia,MSX0EGZS,167,Disconnected from network,NET_DISC,10/22/2024 3:37
+logfile_5.log,Telefonica,SMEIZGXJ,490,Firmware updated,FW_UPD,9/25/2024 10:53
+logfile_3.log,Orange,MV4PFYHJ,607,Connected to network,NET_CONN,10/9/2024 19:58
+logfile_6.log,China Mobile,F0FVKDW7,147,Signal restored,SIG_REST,10/23/2024 13:01
+logfile_9.log,Sprint,WXQQBSXK,769,Data session ended,DATA_END,10/24/2024 6:36
+logfile_3.log,Deutsche Telekom,O4WSEO1T,849,Firmware updated,FW_UPD,10/6/2024 17:14
+logfile_4.log,China Mobile,P0YUVAAE,809,Disconnected from network,NET_DISC,10/15/2024 21:21
+logfile_10.log,Orange,EOFMU7JH,7,Data session ended,DATA_END,10/3/2024 21:54
+logfile_5.log,AT&T,0PTLGQQU,887,Connected to network,NET_CONN,10/4/2024 23:20
+logfile_2.log,Orange,3J5I05DR,174,Data session ended,DATA_END,10/14/2024 15:01
+logfile_6.log,Deutsche Telekom,ESQUZD6Z,212,Data session ended,DATA_END,10/13/2024 13:54
+logfile_3.log,Orange,Y8J05NSC,367,Data session ended,DATA_END,10/23/2024 19:55
+logfile_10.log,Vodafone,D7TFZHW7,46,Battery low,BATT_LOW,10/14/2024 12:14
+logfile_4.log,Telefonica,PUO1YPZF,479,Signal restored,SIG_REST,9/30/2024 23:41
+logfile_10.log,T-Mobile,ZE3Z5DKP,323,Disconnected from network,NET_DISC,10/1/2024 12:02
+logfile_3.log,China Mobile,VI55SX0V,21,Battery low,BATT_LOW,9/26/2024 19:44
+logfile_8.log,T-Mobile,5SGV41PR,46,Disconnected from network,NET_DISC,10/9/2024 0:32
+logfile_6.log,China Mobile,YBB9W6J0,384,Data session started,DATA_START,10/14/2024 8:11
+logfile_6.log,T-Mobile,Z5WQAIF5,348,Battery low,BATT_LOW,10/9/2024 11:28
+logfile_8.log,Vodafone,JHGM9AFG,754,Firmware updated,FW_UPD,10/5/2024 11:27
+logfile_4.log,Telefonica,SYGTEKFX,478,Connected to network,NET_CONN,10/25/2024 3:29
+logfile_4.log,Telecom Italia,XH1U86FZ,828,Connected to network,NET_CONN,10/23/2024 10:47
+logfile_9.log,Deutsche Telekom,RLX7J064,148,Unauthorized access attempt,SEC_ALERT,10/3/2024 15:56
+logfile_3.log,Verizon,6WEFRCOR,307,Disconnected from network,NET_DISC,10/9/2024 10:03
+logfile_7.log,T-Mobile,HB1N4IKD,39,Data session ended,DATA_END,9/24/2024 16:50
+logfile_10.log,T-Mobile,KPTP4SAV,265,Signal lost,SIG_LOST,9/25/2024 17:05
+logfile_4.log,Deutsche Telekom,OH1A3OJU,209,Disconnected from network,NET_DISC,10/24/2024 6:00
+logfile_3.log,Telecom Italia,VF9YTYMJ,690,Battery charging,BATT_CHRG,9/25/2024 2:49
+logfile_8.log,China Mobile,ZZOHSWGJ,721,Disconnected from network,NET_DISC,10/22/2024 18:26
+logfile_4.log,AT&T,419JL287,663,Battery charging,BATT_CHRG,10/21/2024 21:53
+logfile_4.log,AT&T,PQX1SQKZ,40,Disconnected from network,NET_DISC,9/24/2024 23:37
+logfile_6.log,Telefonica,5FVR5Q7X,886,Battery charging,BATT_CHRG,10/25/2024 6:46
+logfile_8.log,Deutsche Telekom,P7MH88E1,870,Disconnected from network,NET_DISC,10/22/2024 8:53
+logfile_6.log,Sprint,BD4421D4,928,Unauthorized access attempt,SEC_ALERT,10/11/2024 18:20
+logfile_5.log,Sprint,IBN2J1S9,320,Data session started,DATA_START,10/19/2024 22:55
+logfile_2.log,Deutsche Telekom,OF53JK8W,792,Signal lost,SIG_LOST,10/9/2024 19:52
+logfile_1.log,Telecom Italia,9NTBG80H,257,Connected to network,NET_CONN,10/2/2024 15:02
+logfile_6.log,China Mobile,N1JHG3RG,282,Unauthorized access attempt,SEC_ALERT,9/25/2024 20:28
+logfile_1.log,Vodafone,4FPFSO5C,334,Unauthorized access attempt,SEC_ALERT,10/18/2024 16:54
+logfile_8.log,Vodafone,BP5T7E0V,890,Battery charging,BATT_CHRG,10/13/2024 20:31
+logfile_2.log,Vodafone,ACGYLCM9,675,Disconnected from network,NET_DISC,10/13/2024 14:14
+logfile_5.log,Sprint,BVEUTUMP,731,Data session started,DATA_START,10/8/2024 5:57
+logfile_2.log,Telecom Italia,K37NB0HV,736,Battery charging,BATT_CHRG,10/22/2024 9:13
+logfile_7.log,AT&T,ZPOJ1HV7,664,Signal restored,SIG_REST,10/12/2024 9:56
+logfile_10.log,Sprint,KRODMG6Y,354,Battery low,BATT_LOW,10/5/2024 0:55
+logfile_4.log,Verizon,WIP0AFCU,279,Data session started,DATA_START,9/27/2024 16:00
+logfile_7.log,Telefonica,CF13N5ID,300,Firmware updated,FW_UPD,9/30/2024 3:07
+logfile_10.log,AT&T,4YUL85WR,544,Connected to network,NET_CONN,10/6/2024 8:59
+logfile_8.log,T-Mobile,C0AML14W,880,Data session started,DATA_START,9/30/2024 17:40
+logfile_6.log,Vodafone,M6NVUMZH,846,Disconnected from network,NET_DISC,9/27/2024 14:17
+logfile_7.log,T-Mobile,GXDUKC2N,866,Unauthorized access attempt,SEC_ALERT,10/9/2024 9:06
+logfile_2.log,AT&T,EWD573F9,473,Unauthorized access attempt,SEC_ALERT,9/24/2024 17:17
+logfile_4.log,Verizon,PJO4UDD9,388,Battery low,BATT_LOW,9/30/2024 7:51
+logfile_8.log,Vodafone,VZJE81Y9,800,Connected to network,NET_CONN,10/12/2024 1:21
+logfile_1.log,Orange,FKQJQ5QY,337,Unauthorized access attempt,SEC_ALERT,10/6/2024 12:51
+logfile_10.log,Telefonica,4FFSX4SH,935,Data session started,DATA_START,10/15/2024 19:22
+logfile_9.log,Verizon,VMTA34FC,878,Unauthorized access attempt,SEC_ALERT,10/16/2024 19:57
+logfile_3.log,Vodafone,LG2FMOK5,525,Battery charging,BATT_CHRG,10/3/2024 12:55
+logfile_10.log,Verizon,4YE5CJR0,644,Signal restored,SIG_REST,10/18/2024 18:10
+logfile_5.log,T-Mobile,26R7EK0S,223,Signal lost,SIG_LOST,10/4/2024 8:57
+logfile_10.log,Verizon,PDQE861V,60,Data session started,DATA_START,9/26/2024 22:48
+logfile_3.log,Sprint,43W0B39M,178,Signal lost,SIG_LOST,10/13/2024 4:29
+logfile_9.log,Verizon,V955IPO5,112,Signal lost,SIG_LOST,9/29/2024 22:02
+logfile_8.log,AT&T,7Q8YA8ET,845,Battery low,BATT_LOW,10/14/2024 14:21
+logfile_10.log,AT&T,KHXT13HE,185,Signal restored,SIG_REST,9/25/2024 6:03
+logfile_6.log,Verizon,4NOPZN85,861,Data session ended,DATA_END,9/29/2024 6:34
+logfile_9.log,Orange,LW52Q530,495,Firmware updated,FW_UPD,10/17/2024 6:52
+logfile_3.log,Verizon,CKTGUAHV,585,Data session ended,DATA_END,10/13/2024 15:33
+logfile_3.log,Vodafone,OFKQL7RL,28,Connected to network,NET_CONN,9/29/2024 15:59
+logfile_4.log,AT&T,5WF1OQNB,812,Signal restored,SIG_REST,10/6/2024 12:18
+logfile_3.log,China Mobile,SDQVKJ43,816,Signal lost,SIG_LOST,9/25/2024 6:47
+logfile_5.log,Telefonica,53H2Y9YB,538,Signal lost,SIG_LOST,10/17/2024 1:54
+logfile_2.log,China Mobile,6ZX2GSZ9,788,Data session ended,DATA_END,9/28/2024 0:55
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_10.log,Telecom Italia,N73GMTTN,39,Data session started,DATA_START,10/10/2024 8:48
+logfile_7.log,Telefonica,UJ3NIXCH,783,Disconnected from network,NET_DISC,10/8/2024 22:52
+logfile_10.log,Telecom Italia,WMUFWZGT,412,Unauthorized access attempt,SEC_ALERT,9/26/2024 17:03
+logfile_6.log,Telefonica,UF09QWF9,195,Signal lost,SIG_LOST,10/9/2024 13:03
+logfile_2.log,Vodafone,IJ8AQF4U,899,Signal lost,SIG_LOST,10/9/2024 13:22
+logfile_7.log,Orange,296XIB8M,99,Disconnected from network,NET_DISC,9/29/2024 20:42
+logfile_10.log,Orange,43A35H5P,691,Disconnected from network,NET_DISC,10/11/2024 13:23
+logfile_10.log,Deutsche Telekom,9RQR2S9L,779,Data session started,DATA_START,10/15/2024 8:42
+logfile_1.log,Deutsche Telekom,7GG7A753,129,Unauthorized access attempt,SEC_ALERT,10/19/2024 18:12
+logfile_2.log,Telecom Italia,EILWNKQB,802,Data session ended,DATA_END,9/30/2024 11:06
+logfile_3.log,Verizon,WZ66K6L1,859,Connected to network,NET_CONN,9/29/2024 17:26
+logfile_1.log,Telefonica,1KOQU76W,476,Disconnected from network,NET_DISC,9/26/2024 3:34
+logfile_1.log,Deutsche Telekom,1RL2RVP2,67,Disconnected from network,NET_DISC,10/20/2024 21:22
+logfile_2.log,Sprint,H236V5RR,470,Signal lost,SIG_LOST,10/19/2024 8:15
+logfile_8.log,Vodafone,BF5VXP3D,18,Connected to network,NET_CONN,10/24/2024 17:14
+logfile_2.log,Deutsche Telekom,NJU8RXFV,733,Battery charging,BATT_CHRG,9/25/2024 14:41
+logfile_6.log,AT&T,9KT6MGB9,277,Firmware updated,FW_UPD,10/5/2024 16:24
+logfile_3.log,Orange,U8WLSCRR,843,Battery charging,BATT_CHRG,10/11/2024 21:55
+logfile_8.log,Deutsche Telekom,LB99G4VZ,427,Signal restored,SIG_REST,9/26/2024 5:21
+logfile_8.log,Vodafone,VBDUZITP,113,Unauthorized access attempt,SEC_ALERT,9/28/2024 20:07
+logfile_7.log,China Mobile,T5LWSK96,668,Unauthorized access attempt,SEC_ALERT,10/18/2024 1:37
+logfile_5.log,Verizon,EX77EFI5,223,Disconnected from network,NET_DISC,10/21/2024 9:26
+logfile_1.log,Vodafone,YM1IKXCT,506,Data session ended,DATA_END,9/27/2024 21:40
+logfile_2.log,Vodafone,TIV623B0,304,Data session ended,DATA_END,10/23/2024 11:20
+logfile_1.log,Deutsche Telekom,VG6K7EU0,228,Battery charging,BATT_CHRG,10/1/2024 11:05
+logfile_4.log,Orange,ZCF86UT2,331,Disconnected from network,NET_DISC,10/13/2024 6:08
+logfile_8.log,Telecom Italia,MSX0EGZS,167,Disconnected from network,NET_DISC,10/22/2024 3:37
+logfile_5.log,Telefonica,SMEIZGXJ,490,Firmware updated,FW_UPD,9/25/2024 10:53
+logfile_3.log,Orange,MV4PFYHJ,607,Connected to network,NET_CONN,10/9/2024 19:58
+logfile_6.log,China Mobile,F0FVKDW7,147,Signal restored,SIG_REST,10/23/2024 13:01
+logfile_9.log,Sprint,WXQQBSXK,769,Data session ended,DATA_END,10/24/2024 6:36
+logfile_3.log,Deutsche Telekom,O4WSEO1T,849,Firmware updated,FW_UPD,10/6/2024 17:14
+logfile_4.log,China Mobile,P0YUVAAE,809,Disconnected from network,NET_DISC,10/15/2024 21:21
+logfile_10.log,Orange,EOFMU7JH,7,Data session ended,DATA_END,10/3/2024 21:54
+logfile_5.log,AT&T,0PTLGQQU,887,Connected to network,NET_CONN,10/4/2024 23:20
+logfile_2.log,Orange,3J5I05DR,174,Data session ended,DATA_END,10/14/2024 15:01
+logfile_6.log,Deutsche Telekom,ESQUZD6Z,212,Data session ended,DATA_END,10/13/2024 13:54
+logfile_3.log,Orange,Y8J05NSC,367,Data session ended,DATA_END,10/23/2024 19:55
+logfile_10.log,Vodafone,D7TFZHW7,46,Battery low,BATT_LOW,10/14/2024 12:14
+logfile_4.log,Telefonica,PUO1YPZF,479,Signal restored,SIG_REST,9/30/2024 23:41
+logfile_10.log,T-Mobile,ZE3Z5DKP,323,Disconnected from network,NET_DISC,10/1/2024 12:02
+logfile_3.log,China Mobile,VI55SX0V,21,Battery low,BATT_LOW,9/26/2024 19:44
+logfile_8.log,T-Mobile,5SGV41PR,46,Disconnected from network,NET_DISC,10/9/2024 0:32
+logfile_6.log,China Mobile,YBB9W6J0,384,Data session started,DATA_START,10/14/2024 8:11
+logfile_6.log,T-Mobile,Z5WQAIF5,348,Battery low,BATT_LOW,10/9/2024 11:28
+logfile_8.log,Vodafone,JHGM9AFG,754,Firmware updated,FW_UPD,10/5/2024 11:27
+logfile_4.log,Telefonica,SYGTEKFX,478,Connected to network,NET_CONN,10/25/2024 3:29
+logfile_4.log,Telecom Italia,XH1U86FZ,828,Connected to network,NET_CONN,10/23/2024 10:47
+logfile_9.log,Deutsche Telekom,RLX7J064,148,Unauthorized access attempt,SEC_ALERT,10/3/2024 15:56
+logfile_3.log,Verizon,6WEFRCOR,307,Disconnected from network,NET_DISC,10/9/2024 10:03
+logfile_7.log,T-Mobile,HB1N4IKD,39,Data session ended,DATA_END,9/24/2024 16:50
+logfile_10.log,T-Mobile,KPTP4SAV,265,Signal lost,SIG_LOST,9/25/2024 17:05
+logfile_4.log,Deutsche Telekom,OH1A3OJU,209,Disconnected from network,NET_DISC,10/24/2024 6:00
+logfile_3.log,Telecom Italia,VF9YTYMJ,690,Battery charging,BATT_CHRG,9/25/2024 2:49
+logfile_8.log,China Mobile,ZZOHSWGJ,721,Disconnected from network,NET_DISC,10/22/2024 18:26
+logfile_4.log,AT&T,419JL287,663,Battery charging,BATT_CHRG,10/21/2024 21:53
+logfile_4.log,AT&T,PQX1SQKZ,40,Disconnected from network,NET_DISC,9/24/2024 23:37
+logfile_6.log,Telefonica,5FVR5Q7X,886,Battery charging,BATT_CHRG,10/25/2024 6:46
+logfile_8.log,Deutsche Telekom,P7MH88E1,870,Disconnected from network,NET_DISC,10/22/2024 8:53
+logfile_6.log,Sprint,BD4421D4,928,Unauthorized access attempt,SEC_ALERT,10/11/2024 18:20
+logfile_5.log,Sprint,IBN2J1S9,320,Data session started,DATA_START,10/19/2024 22:55
+logfile_2.log,Deutsche Telekom,OF53JK8W,792,Signal lost,SIG_LOST,10/9/2024 19:52
+logfile_1.log,Telecom Italia,9NTBG80H,257,Connected to network,NET_CONN,10/2/2024 15:02
+logfile_6.log,China Mobile,N1JHG3RG,282,Unauthorized access attempt,SEC_ALERT,9/25/2024 20:28
+logfile_1.log,Vodafone,4FPFSO5C,334,Unauthorized access attempt,SEC_ALERT,10/18/2024 16:54
+logfile_8.log,Vodafone,BP5T7E0V,890,Battery charging,BATT_CHRG,10/13/2024 20:31
+logfile_2.log,Vodafone,ACGYLCM9,675,Disconnected from network,NET_DISC,10/13/2024 14:14
+logfile_5.log,Sprint,BVEUTUMP,731,Data session started,DATA_START,10/8/2024 5:57
+logfile_2.log,Telecom Italia,K37NB0HV,736,Battery charging,BATT_CHRG,10/22/2024 9:13
+logfile_7.log,AT&T,ZPOJ1HV7,664,Signal restored,SIG_REST,10/12/2024 9:56
+logfile_10.log,Sprint,KRODMG6Y,354,Battery low,BATT_LOW,10/5/2024 0:55
+logfile_4.log,Verizon,WIP0AFCU,279,Data session started,DATA_START,9/27/2024 16:00
+logfile_7.log,Telefonica,CF13N5ID,300,Firmware updated,FW_UPD,9/30/2024 3:07
+logfile_10.log,AT&T,4YUL85WR,544,Connected to network,NET_CONN,10/6/2024 8:59
+logfile_8.log,T-Mobile,C0AML14W,880,Data session started,DATA_START,9/30/2024 17:40
+logfile_6.log,Vodafone,M6NVUMZH,846,Disconnected from network,NET_DISC,9/27/2024 14:17
+logfile_7.log,T-Mobile,GXDUKC2N,866,Unauthorized access attempt,SEC_ALERT,10/9/2024 9:06
+logfile_2.log,AT&T,EWD573F9,473,Unauthorized access attempt,SEC_ALERT,9/24/2024 17:17
+logfile_4.log,Verizon,PJO4UDD9,388,Battery low,BATT_LOW,9/30/2024 7:51
+logfile_8.log,Vodafone,VZJE81Y9,800,Connected to network,NET_CONN,10/12/2024 1:21
+logfile_1.log,Orange,FKQJQ5QY,337,Unauthorized access attempt,SEC_ALERT,10/6/2024 12:51
+logfile_10.log,Telefonica,4FFSX4SH,935,Data session started,DATA_START,10/15/2024 19:22
+logfile_9.log,Verizon,VMTA34FC,878,Unauthorized access attempt,SEC_ALERT,10/16/2024 19:57
+logfile_3.log,Vodafone,LG2FMOK5,525,Battery charging,BATT_CHRG,10/3/2024 12:55
+logfile_10.log,Verizon,4YE5CJR0,644,Signal restored,SIG_REST,10/18/2024 18:10
+logfile_5.log,T-Mobile,26R7EK0S,223,Signal lost,SIG_LOST,10/4/2024 8:57
+logfile_10.log,Verizon,PDQE861V,60,Data session started,DATA_START,9/26/2024 22:48
+logfile_3.log,Sprint,43W0B39M,178,Signal lost,SIG_LOST,10/13/2024 4:29
+logfile_9.log,Verizon,V955IPO5,112,Signal lost,SIG_LOST,9/29/2024 22:02
+logfile_8.log,AT&T,7Q8YA8ET,845,Battery low,BATT_LOW,10/14/2024 14:21
+logfile_10.log,AT&T,KHXT13HE,185,Signal restored,SIG_REST,9/25/2024 6:03
+logfile_6.log,Verizon,4NOPZN85,861,Data session ended,DATA_END,9/29/2024 6:34
+logfile_9.log,Orange,LW52Q530,495,Firmware updated,FW_UPD,10/17/2024 6:52
+logfile_3.log,Verizon,CKTGUAHV,585,Data session ended,DATA_END,10/13/2024 15:33
+logfile_3.log,Vodafone,OFKQL7RL,28,Connected to network,NET_CONN,9/29/2024 15:59
+logfile_4.log,AT&T,5WF1OQNB,812,Signal restored,SIG_REST,10/6/2024 12:18
+logfile_3.log,China Mobile,SDQVKJ43,816,Signal lost,SIG_LOST,9/25/2024 6:47
+logfile_5.log,Telefonica,53H2Y9YB,538,Signal lost,SIG_LOST,10/17/2024 1:54
+logfile_2.log,China Mobile,6ZX2GSZ9,788,Data session ended,DATA_END,9/28/2024 0:55
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_10.log,Telecom Italia,N73GMTTN,39,Data session started,DATA_START,10/10/2024 8:48
+logfile_7.log,Telefonica,UJ3NIXCH,783,Disconnected from network,NET_DISC,10/8/2024 22:52
+logfile_10.log,Telecom Italia,WMUFWZGT,412,Unauthorized access attempt,SEC_ALERT,9/26/2024 17:03
+logfile_6.log,Telefonica,UF09QWF9,195,Signal lost,SIG_LOST,10/9/2024 13:03
+logfile_2.log,Vodafone,IJ8AQF4U,899,Signal lost,SIG_LOST,10/9/2024 13:22
+logfile_7.log,Orange,296XIB8M,99,Disconnected from network,NET_DISC,9/29/2024 20:42
+logfile_10.log,Orange,43A35H5P,691,Disconnected from network,NET_DISC,10/11/2024 13:23
+logfile_10.log,Deutsche Telekom,9RQR2S9L,779,Data session started,DATA_START,10/15/2024 8:42
+logfile_1.log,Deutsche Telekom,7GG7A753,129,Unauthorized access attempt,SEC_ALERT,10/19/2024 18:12
+logfile_2.log,Telecom Italia,EILWNKQB,802,Data session ended,DATA_END,9/30/2024 11:06
+logfile_3.log,Verizon,WZ66K6L1,859,Connected to network,NET_CONN,9/29/2024 17:26
+logfile_1.log,Telefonica,1KOQU76W,476,Disconnected from network,NET_DISC,9/26/2024 3:34
+logfile_1.log,Deutsche Telekom,1RL2RVP2,67,Disconnected from network,NET_DISC,10/20/2024 21:22
+logfile_2.log,Sprint,H236V5RR,470,Signal lost,SIG_LOST,10/19/2024 8:15
+logfile_8.log,Vodafone,BF5VXP3D,18,Connected to network,NET_CONN,10/24/2024 17:14
+logfile_2.log,Deutsche Telekom,NJU8RXFV,733,Battery charging,BATT_CHRG,9/25/2024 14:41
+logfile_6.log,AT&T,9KT6MGB9,277,Firmware updated,FW_UPD,10/5/2024 16:24
+logfile_3.log,Orange,U8WLSCRR,843,Battery charging,BATT_CHRG,10/11/2024 21:55
+logfile_8.log,Deutsche Telekom,LB99G4VZ,427,Signal restored,SIG_REST,9/26/2024 5:21
+logfile_8.log,Vodafone,VBDUZITP,113,Unauthorized access attempt,SEC_ALERT,9/28/2024 20:07
+logfile_7.log,China Mobile,T5LWSK96,668,Unauthorized access attempt,SEC_ALERT,10/18/2024 1:37
+logfile_5.log,Verizon,EX77EFI5,223,Disconnected from network,NET_DISC,10/21/2024 9:26
+logfile_1.log,Vodafone,YM1IKXCT,506,Data session ended,DATA_END,9/27/2024 21:40
+logfile_2.log,Vodafone,TIV623B0,304,Data session ended,DATA_END,10/23/2024 11:20
+logfile_1.log,Deutsche Telekom,VG6K7EU0,228,Battery charging,BATT_CHRG,10/1/2024 11:05
+logfile_4.log,Orange,ZCF86UT2,331,Disconnected from network,NET_DISC,10/13/2024 6:08
+logfile_8.log,Telecom Italia,MSX0EGZS,167,Disconnected from network,NET_DISC,10/22/2024 3:37
+logfile_5.log,Telefonica,SMEIZGXJ,490,Firmware updated,FW_UPD,9/25/2024 10:53
+logfile_3.log,Orange,MV4PFYHJ,607,Connected to network,NET_CONN,10/9/2024 19:58
+logfile_6.log,China Mobile,F0FVKDW7,147,Signal restored,SIG_REST,10/23/2024 13:01
+logfile_9.log,Sprint,WXQQBSXK,769,Data session ended,DATA_END,10/24/2024 6:36
+logfile_3.log,Deutsche Telekom,O4WSEO1T,849,Firmware updated,FW_UPD,10/6/2024 17:14
+logfile_4.log,China Mobile,P0YUVAAE,809,Disconnected from network,NET_DISC,10/15/2024 21:21
+logfile_10.log,Orange,EOFMU7JH,7,Data session ended,DATA_END,10/3/2024 21:54
+logfile_5.log,AT&T,0PTLGQQU,887,Connected to network,NET_CONN,10/4/2024 23:20
+logfile_2.log,Orange,3J5I05DR,174,Data session ended,DATA_END,10/14/2024 15:01
+logfile_6.log,Deutsche Telekom,ESQUZD6Z,212,Data session ended,DATA_END,10/13/2024 13:54
+logfile_3.log,Orange,Y8J05NSC,367,Data session ended,DATA_END,10/23/2024 19:55
+logfile_10.log,Vodafone,D7TFZHW7,46,Battery low,BATT_LOW,10/14/2024 12:14
+logfile_4.log,Telefonica,PUO1YPZF,479,Signal restored,SIG_REST,9/30/2024 23:41
+logfile_10.log,T-Mobile,ZE3Z5DKP,323,Disconnected from network,NET_DISC,10/1/2024 12:02
+logfile_3.log,China Mobile,VI55SX0V,21,Battery low,BATT_LOW,9/26/2024 19:44
+logfile_8.log,T-Mobile,5SGV41PR,46,Disconnected from network,NET_DISC,10/9/2024 0:32
+logfile_6.log,China Mobile,YBB9W6J0,384,Data session started,DATA_START,10/14/2024 8:11
+logfile_6.log,T-Mobile,Z5WQAIF5,348,Battery low,BATT_LOW,10/9/2024 11:28
+logfile_8.log,Vodafone,JHGM9AFG,754,Firmware updated,FW_UPD,10/5/2024 11:27
+logfile_4.log,Telefonica,SYGTEKFX,478,Connected to network,NET_CONN,10/25/2024 3:29
+logfile_4.log,Telecom Italia,XH1U86FZ,828,Connected to network,NET_CONN,10/23/2024 10:47
+logfile_9.log,Deutsche Telekom,RLX7J064,148,Unauthorized access attempt,SEC_ALERT,10/3/2024 15:56
+logfile_3.log,Verizon,6WEFRCOR,307,Disconnected from network,NET_DISC,10/9/2024 10:03
+logfile_7.log,T-Mobile,HB1N4IKD,39,Data session ended,DATA_END,9/24/2024 16:50
+logfile_10.log,T-Mobile,KPTP4SAV,265,Signal lost,SIG_LOST,9/25/2024 17:05
+logfile_4.log,Deutsche Telekom,OH1A3OJU,209,Disconnected from network,NET_DISC,10/24/2024 6:00
+logfile_3.log,Telecom Italia,VF9YTYMJ,690,Battery charging,BATT_CHRG,9/25/2024 2:49
+logfile_8.log,China Mobile,ZZOHSWGJ,721,Disconnected from network,NET_DISC,10/22/2024 18:26
+logfile_4.log,AT&T,419JL287,663,Battery charging,BATT_CHRG,10/21/2024 21:53
+logfile_4.log,AT&T,PQX1SQKZ,40,Disconnected from network,NET_DISC,9/24/2024 23:37
+logfile_6.log,Telefonica,5FVR5Q7X,886,Battery charging,BATT_CHRG,10/25/2024 6:46
+logfile_8.log,Deutsche Telekom,P7MH88E1,870,Disconnected from network,NET_DISC,10/22/2024 8:53
+logfile_6.log,Sprint,BD4421D4,928,Unauthorized access attempt,SEC_ALERT,10/11/2024 18:20
+logfile_5.log,Sprint,IBN2J1S9,320,Data session started,DATA_START,10/19/2024 22:55
+logfile_2.log,Deutsche Telekom,OF53JK8W,792,Signal lost,SIG_LOST,10/9/2024 19:52
+logfile_1.log,Telecom Italia,9NTBG80H,257,Connected to network,NET_CONN,10/2/2024 15:02
+logfile_6.log,China Mobile,N1JHG3RG,282,Unauthorized access attempt,SEC_ALERT,9/25/2024 20:28
+logfile_1.log,Vodafone,4FPFSO5C,334,Unauthorized access attempt,SEC_ALERT,10/18/2024 16:54
+logfile_8.log,Vodafone,BP5T7E0V,890,Battery charging,BATT_CHRG,10/13/2024 20:31
+logfile_2.log,Vodafone,ACGYLCM9,675,Disconnected from network,NET_DISC,10/13/2024 14:14
+logfile_5.log,Sprint,BVEUTUMP,731,Data session started,DATA_START,10/8/2024 5:57
+logfile_2.log,Telecom Italia,K37NB0HV,736,Battery charging,BATT_CHRG,10/22/2024 9:13
+logfile_7.log,AT&T,ZPOJ1HV7,664,Signal restored,SIG_REST,10/12/2024 9:56
+logfile_10.log,Sprint,KRODMG6Y,354,Battery low,BATT_LOW,10/5/2024 0:55
+logfile_4.log,Verizon,WIP0AFCU,279,Data session started,DATA_START,9/27/2024 16:00
+logfile_7.log,Telefonica,CF13N5ID,300,Firmware updated,FW_UPD,9/30/2024 3:07
+logfile_10.log,AT&T,4YUL85WR,544,Connected to network,NET_CONN,10/6/2024 8:59
+logfile_8.log,T-Mobile,C0AML14W,880,Data session started,DATA_START,9/30/2024 17:40
+logfile_6.log,Vodafone,M6NVUMZH,846,Disconnected from network,NET_DISC,9/27/2024 14:17
+logfile_7.log,T-Mobile,GXDUKC2N,866,Unauthorized access attempt,SEC_ALERT,10/9/2024 9:06
+logfile_2.log,AT&T,EWD573F9,473,Unauthorized access attempt,SEC_ALERT,9/24/2024 17:17
+logfile_4.log,Verizon,PJO4UDD9,388,Battery low,BATT_LOW,9/30/2024 7:51
+logfile_8.log,Vodafone,VZJE81Y9,800,Connected to network,NET_CONN,10/12/2024 1:21
+logfile_1.log,Orange,FKQJQ5QY,337,Unauthorized access attempt,SEC_ALERT,10/6/2024 12:51
+logfile_10.log,Telefonica,4FFSX4SH,935,Data session started,DATA_START,10/15/2024 19:22
+logfile_9.log,Verizon,VMTA34FC,878,Unauthorized access attempt,SEC_ALERT,10/16/2024 19:57
+logfile_3.log,Vodafone,LG2FMOK5,525,Battery charging,BATT_CHRG,10/3/2024 12:55
+logfile_10.log,Verizon,4YE5CJR0,644,Signal restored,SIG_REST,10/18/2024 18:10
+logfile_5.log,T-Mobile,26R7EK0S,223,Signal lost,SIG_LOST,10/4/2024 8:57
+logfile_10.log,Verizon,PDQE861V,60,Data session started,DATA_START,9/26/2024 22:48
+logfile_3.log,Sprint,43W0B39M,178,Signal lost,SIG_LOST,10/13/2024 4:29
+logfile_9.log,Verizon,V955IPO5,112,Signal lost,SIG_LOST,9/29/2024 22:02
+logfile_8.log,AT&T,7Q8YA8ET,845,Battery low,BATT_LOW,10/14/2024 14:21
+logfile_10.log,AT&T,KHXT13HE,185,Signal restored,SIG_REST,9/25/2024 6:03
+logfile_6.log,Verizon,4NOPZN85,861,Data session ended,DATA_END,9/29/2024 6:34
+logfile_9.log,Orange,LW52Q530,495,Firmware updated,FW_UPD,10/17/2024 6:52
+logfile_3.log,Verizon,CKTGUAHV,585,Data session ended,DATA_END,10/13/2024 15:33
+logfile_3.log,Vodafone,OFKQL7RL,28,Connected to network,NET_CONN,9/29/2024 15:59
+logfile_4.log,AT&T,5WF1OQNB,812,Signal restored,SIG_REST,10/6/2024 12:18
+logfile_3.log,China Mobile,SDQVKJ43,816,Signal lost,SIG_LOST,9/25/2024 6:47
+logfile_5.log,Telefonica,53H2Y9YB,538,Signal lost,SIG_LOST,10/17/2024 1:54
+logfile_2.log,China Mobile,6ZX2GSZ9,788,Data session ended,DATA_END,9/28/2024 0:55
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_10.log,Telecom Italia,N73GMTTN,39,Data session started,DATA_START,10/10/2024 8:48
+logfile_7.log,Telefonica,UJ3NIXCH,783,Disconnected from network,NET_DISC,10/8/2024 22:52
+logfile_10.log,Telecom Italia,WMUFWZGT,412,Unauthorized access attempt,SEC_ALERT,9/26/2024 17:03
+logfile_6.log,Telefonica,UF09QWF9,195,Signal lost,SIG_LOST,10/9/2024 13:03
+logfile_2.log,Vodafone,IJ8AQF4U,899,Signal lost,SIG_LOST,10/9/2024 13:22
+logfile_7.log,Orange,296XIB8M,99,Disconnected from network,NET_DISC,9/29/2024 20:42
+logfile_10.log,Orange,43A35H5P,691,Disconnected from network,NET_DISC,10/11/2024 13:23
+logfile_10.log,Deutsche Telekom,9RQR2S9L,779,Data session started,DATA_START,10/15/2024 8:42
+logfile_1.log,Deutsche Telekom,7GG7A753,129,Unauthorized access attempt,SEC_ALERT,10/19/2024 18:12
+logfile_2.log,Telecom Italia,EILWNKQB,802,Data session ended,DATA_END,9/30/2024 11:06
+logfile_3.log,Verizon,WZ66K6L1,859,Connected to network,NET_CONN,9/29/2024 17:26
+logfile_1.log,Telefonica,1KOQU76W,476,Disconnected from network,NET_DISC,9/26/2024 3:34
+logfile_1.log,Deutsche Telekom,1RL2RVP2,67,Disconnected from network,NET_DISC,10/20/2024 21:22
+logfile_2.log,Sprint,H236V5RR,470,Signal lost,SIG_LOST,10/19/2024 8:15
+logfile_8.log,Vodafone,BF5VXP3D,18,Connected to network,NET_CONN,10/24/2024 17:14
+logfile_2.log,Deutsche Telekom,NJU8RXFV,733,Battery charging,BATT_CHRG,9/25/2024 14:41
+logfile_6.log,AT&T,9KT6MGB9,277,Firmware updated,FW_UPD,10/5/2024 16:24
+logfile_3.log,Orange,U8WLSCRR,843,Battery charging,BATT_CHRG,10/11/2024 21:55
+logfile_8.log,Deutsche Telekom,LB99G4VZ,427,Signal restored,SIG_REST,9/26/2024 5:21
+logfile_8.log,Vodafone,VBDUZITP,113,Unauthorized access attempt,SEC_ALERT,9/28/2024 20:07
+logfile_7.log,China Mobile,T5LWSK96,668,Unauthorized access attempt,SEC_ALERT,10/18/2024 1:37
+logfile_5.log,Verizon,EX77EFI5,223,Disconnected from network,NET_DISC,10/21/2024 9:26
+logfile_1.log,Vodafone,YM1IKXCT,506,Data session ended,DATA_END,9/27/2024 21:40
+logfile_2.log,Vodafone,TIV623B0,304,Data session ended,DATA_END,10/23/2024 11:20
+logfile_1.log,Deutsche Telekom,VG6K7EU0,228,Battery charging,BATT_CHRG,10/1/2024 11:05
+logfile_4.log,Orange,ZCF86UT2,331,Disconnected from network,NET_DISC,10/13/2024 6:08
+logfile_8.log,Telecom Italia,MSX0EGZS,167,Disconnected from network,NET_DISC,10/22/2024 3:37
+logfile_5.log,Telefonica,SMEIZGXJ,490,Firmware updated,FW_UPD,9/25/2024 10:53
+logfile_3.log,Orange,MV4PFYHJ,607,Connected to network,NET_CONN,10/9/2024 19:58
+logfile_6.log,China Mobile,F0FVKDW7,147,Signal restored,SIG_REST,10/23/2024 13:01
+logfile_9.log,Sprint,WXQQBSXK,769,Data session ended,DATA_END,10/24/2024 6:36
+logfile_3.log,Deutsche Telekom,O4WSEO1T,849,Firmware updated,FW_UPD,10/6/2024 17:14
+logfile_4.log,China Mobile,P0YUVAAE,809,Disconnected from network,NET_DISC,10/15/2024 21:21
+logfile_10.log,Orange,EOFMU7JH,7,Data session ended,DATA_END,10/3/2024 21:54
+logfile_5.log,AT&T,0PTLGQQU,887,Connected to network,NET_CONN,10/4/2024 23:20
+logfile_2.log,Orange,3J5I05DR,174,Data session ended,DATA_END,10/14/2024 15:01
+logfile_6.log,Deutsche Telekom,ESQUZD6Z,212,Data session ended,DATA_END,10/13/2024 13:54
+logfile_3.log,Orange,Y8J05NSC,367,Data session ended,DATA_END,10/23/2024 19:55
+logfile_10.log,Vodafone,D7TFZHW7,46,Battery low,BATT_LOW,10/14/2024 12:14
+logfile_4.log,Telefonica,PUO1YPZF,479,Signal restored,SIG_REST,9/30/2024 23:41
+logfile_10.log,T-Mobile,ZE3Z5DKP,323,Disconnected from network,NET_DISC,10/1/2024 12:02
+logfile_3.log,China Mobile,VI55SX0V,21,Battery low,BATT_LOW,9/26/2024 19:44
+logfile_8.log,T-Mobile,5SGV41PR,46,Disconnected from network,NET_DISC,10/9/2024 0:32
+logfile_6.log,China Mobile,YBB9W6J0,384,Data session started,DATA_START,10/14/2024 8:11
+logfile_6.log,T-Mobile,Z5WQAIF5,348,Battery low,BATT_LOW,10/9/2024 11:28
+logfile_8.log,Vodafone,JHGM9AFG,754,Firmware updated,FW_UPD,10/5/2024 11:27
+logfile_4.log,Telefonica,SYGTEKFX,478,Connected to network,NET_CONN,10/25/2024 3:29
+logfile_4.log,Telecom Italia,XH1U86FZ,828,Connected to network,NET_CONN,10/23/2024 10:47
+logfile_9.log,Deutsche Telekom,RLX7J064,148,Unauthorized access attempt,SEC_ALERT,10/3/2024 15:56
+logfile_3.log,Verizon,6WEFRCOR,307,Disconnected from network,NET_DISC,10/9/2024 10:03
+logfile_7.log,T-Mobile,HB1N4IKD,39,Data session ended,DATA_END,9/24/2024 16:50
+logfile_10.log,T-Mobile,KPTP4SAV,265,Signal lost,SIG_LOST,9/25/2024 17:05
+logfile_4.log,Deutsche Telekom,OH1A3OJU,209,Disconnected from network,NET_DISC,10/24/2024 6:00
+logfile_3.log,Telecom Italia,VF9YTYMJ,690,Battery charging,BATT_CHRG,9/25/2024 2:49
+logfile_8.log,China Mobile,ZZOHSWGJ,721,Disconnected from network,NET_DISC,10/22/2024 18:26
+logfile_4.log,AT&T,419JL287,663,Battery charging,BATT_CHRG,10/21/2024 21:53
+logfile_4.log,AT&T,PQX1SQKZ,40,Disconnected from network,NET_DISC,9/24/2024 23:37
+logfile_6.log,Telefonica,5FVR5Q7X,886,Battery charging,BATT_CHRG,10/25/2024 6:46
+logfile_8.log,Deutsche Telekom,P7MH88E1,870,Disconnected from network,NET_DISC,10/22/2024 8:53
+logfile_6.log,Sprint,BD4421D4,928,Unauthorized access attempt,SEC_ALERT,10/11/2024 18:20
+logfile_5.log,Sprint,IBN2J1S9,320,Data session started,DATA_START,10/19/2024 22:55
+logfile_2.log,Deutsche Telekom,OF53JK8W,792,Signal lost,SIG_LOST,10/9/2024 19:52
+logfile_1.log,Telecom Italia,9NTBG80H,257,Connected to network,NET_CONN,10/2/2024 15:02
+logfile_6.log,China Mobile,N1JHG3RG,282,Unauthorized access attempt,SEC_ALERT,9/25/2024 20:28
+logfile_1.log,Vodafone,4FPFSO5C,334,Unauthorized access attempt,SEC_ALERT,10/18/2024 16:54
+logfile_8.log,Vodafone,BP5T7E0V,890,Battery charging,BATT_CHRG,10/13/2024 20:31
+logfile_2.log,Vodafone,ACGYLCM9,675,Disconnected from network,NET_DISC,10/13/2024 14:14
+logfile_5.log,Sprint,BVEUTUMP,731,Data session started,DATA_START,10/8/2024 5:57
+logfile_2.log,Telecom Italia,K37NB0HV,736,Battery charging,BATT_CHRG,10/22/2024 9:13
+logfile_7.log,AT&T,ZPOJ1HV7,664,Signal restored,SIG_REST,10/12/2024 9:56
+logfile_10.log,Sprint,KRODMG6Y,354,Battery low,BATT_LOW,10/5/2024 0:55
+logfile_4.log,Verizon,WIP0AFCU,279,Data session started,DATA_START,9/27/2024 16:00
+logfile_7.log,Telefonica,CF13N5ID,300,Firmware updated,FW_UPD,9/30/2024 3:07
+logfile_10.log,AT&T,4YUL85WR,544,Connected to network,NET_CONN,10/6/2024 8:59
+logfile_8.log,T-Mobile,C0AML14W,880,Data session started,DATA_START,9/30/2024 17:40
+logfile_6.log,Vodafone,M6NVUMZH,846,Disconnected from network,NET_DISC,9/27/2024 14:17
+logfile_7.log,T-Mobile,GXDUKC2N,866,Unauthorized access attempt,SEC_ALERT,10/9/2024 9:06
+logfile_2.log,AT&T,EWD573F9,473,Unauthorized access attempt,SEC_ALERT,9/24/2024 17:17
+logfile_4.log,Verizon,PJO4UDD9,388,Battery low,BATT_LOW,9/30/2024 7:51
+logfile_8.log,Vodafone,VZJE81Y9,800,Connected to network,NET_CONN,10/12/2024 1:21
+logfile_1.log,Orange,FKQJQ5QY,337,Unauthorized access attempt,SEC_ALERT,10/6/2024 12:51
+logfile_10.log,Telefonica,4FFSX4SH,935,Data session started,DATA_START,10/15/2024 19:22
+logfile_9.log,Verizon,VMTA34FC,878,Unauthorized access attempt,SEC_ALERT,10/16/2024 19:57
+logfile_3.log,Vodafone,LG2FMOK5,525,Battery charging,BATT_CHRG,10/3/2024 12:55
+logfile_10.log,Verizon,4YE5CJR0,644,Signal restored,SIG_REST,10/18/2024 18:10
+logfile_5.log,T-Mobile,26R7EK0S,223,Signal lost,SIG_LOST,10/4/2024 8:57
+logfile_10.log,Verizon,PDQE861V,60,Data session started,DATA_START,9/26/2024 22:48
+logfile_3.log,Sprint,43W0B39M,178,Signal lost,SIG_LOST,10/13/2024 4:29
+logfile_9.log,Verizon,V955IPO5,112,Signal lost,SIG_LOST,9/29/2024 22:02
+logfile_8.log,AT&T,7Q8YA8ET,845,Battery low,BATT_LOW,10/14/2024 14:21
+logfile_10.log,AT&T,KHXT13HE,185,Signal restored,SIG_REST,9/25/2024 6:03
+logfile_6.log,Verizon,4NOPZN85,861,Data session ended,DATA_END,9/29/2024 6:34
+logfile_9.log,Orange,LW52Q530,495,Firmware updated,FW_UPD,10/17/2024 6:52
+logfile_3.log,Verizon,CKTGUAHV,585,Data session ended,DATA_END,10/13/2024 15:33
+logfile_3.log,Vodafone,OFKQL7RL,28,Connected to network,NET_CONN,9/29/2024 15:59
+logfile_4.log,AT&T,5WF1OQNB,812,Signal restored,SIG_REST,10/6/2024 12:18
+logfile_3.log,China Mobile,SDQVKJ43,816,Signal lost,SIG_LOST,9/25/2024 6:47
+logfile_5.log,Telefonica,53H2Y9YB,538,Signal lost,SIG_LOST,10/17/2024 1:54
+logfile_2.log,China Mobile,6ZX2GSZ9,788,Data session ended,DATA_END,9/28/2024 0:55
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_10.log,Telecom Italia,N73GMTTN,39,Data session started,DATA_START,10/10/2024 8:48
+logfile_7.log,Telefonica,UJ3NIXCH,783,Disconnected from network,NET_DISC,10/8/2024 22:52
+logfile_10.log,Telecom Italia,WMUFWZGT,412,Unauthorized access attempt,SEC_ALERT,9/26/2024 17:03
+logfile_6.log,Telefonica,UF09QWF9,195,Signal lost,SIG_LOST,10/9/2024 13:03
+logfile_2.log,Vodafone,IJ8AQF4U,899,Signal lost,SIG_LOST,10/9/2024 13:22
+logfile_7.log,Orange,296XIB8M,99,Disconnected from network,NET_DISC,9/29/2024 20:42
+logfile_10.log,Orange,43A35H5P,691,Disconnected from network,NET_DISC,10/11/2024 13:23
+logfile_10.log,Deutsche Telekom,9RQR2S9L,779,Data session started,DATA_START,10/15/2024 8:42
+logfile_1.log,Deutsche Telekom,7GG7A753,129,Unauthorized access attempt,SEC_ALERT,10/19/2024 18:12
+logfile_2.log,Telecom Italia,EILWNKQB,802,Data session ended,DATA_END,9/30/2024 11:06
+logfile_3.log,Verizon,WZ66K6L1,859,Connected to network,NET_CONN,9/29/2024 17:26
+logfile_1.log,Telefonica,1KOQU76W,476,Disconnected from network,NET_DISC,9/26/2024 3:34
+logfile_1.log,Deutsche Telekom,1RL2RVP2,67,Disconnected from network,NET_DISC,10/20/2024 21:22
+logfile_2.log,Sprint,H236V5RR,470,Signal lost,SIG_LOST,10/19/2024 8:15
+logfile_8.log,Vodafone,BF5VXP3D,18,Connected to network,NET_CONN,10/24/2024 17:14
+logfile_2.log,Deutsche Telekom,NJU8RXFV,733,Battery charging,BATT_CHRG,9/25/2024 14:41
+logfile_6.log,AT&T,9KT6MGB9,277,Firmware updated,FW_UPD,10/5/2024 16:24
+logfile_3.log,Orange,U8WLSCRR,843,Battery charging,BATT_CHRG,10/11/2024 21:55
+logfile_8.log,Deutsche Telekom,LB99G4VZ,427,Signal restored,SIG_REST,9/26/2024 5:21
+logfile_8.log,Vodafone,VBDUZITP,113,Unauthorized access attempt,SEC_ALERT,9/28/2024 20:07
+logfile_7.log,China Mobile,T5LWSK96,668,Unauthorized access attempt,SEC_ALERT,10/18/2024 1:37
+logfile_5.log,Verizon,EX77EFI5,223,Disconnected from network,NET_DISC,10/21/2024 9:26
+logfile_1.log,Vodafone,YM1IKXCT,506,Data session ended,DATA_END,9/27/2024 21:40
+logfile_2.log,Vodafone,TIV623B0,304,Data session ended,DATA_END,10/23/2024 11:20
+logfile_1.log,Deutsche Telekom,VG6K7EU0,228,Battery charging,BATT_CHRG,10/1/2024 11:05
+logfile_4.log,Orange,ZCF86UT2,331,Disconnected from network,NET_DISC,10/13/2024 6:08
+logfile_8.log,Telecom Italia,MSX0EGZS,167,Disconnected from network,NET_DISC,10/22/2024 3:37
+logfile_5.log,Telefonica,SMEIZGXJ,490,Firmware updated,FW_UPD,9/25/2024 10:53
+logfile_3.log,Orange,MV4PFYHJ,607,Connected to network,NET_CONN,10/9/2024 19:58
+logfile_6.log,China Mobile,F0FVKDW7,147,Signal restored,SIG_REST,10/23/2024 13:01
+logfile_9.log,Sprint,WXQQBSXK,769,Data session ended,DATA_END,10/24/2024 6:36
+logfile_3.log,Deutsche Telekom,O4WSEO1T,849,Firmware updated,FW_UPD,10/6/2024 17:14
+logfile_4.log,China Mobile,P0YUVAAE,809,Disconnected from network,NET_DISC,10/15/2024 21:21
+logfile_10.log,Orange,EOFMU7JH,7,Data session ended,DATA_END,10/3/2024 21:54
+logfile_5.log,AT&T,0PTLGQQU,887,Connected to network,NET_CONN,10/4/2024 23:20
+logfile_2.log,Orange,3J5I05DR,174,Data session ended,DATA_END,10/14/2024 15:01
+logfile_6.log,Deutsche Telekom,ESQUZD6Z,212,Data session ended,DATA_END,10/13/2024 13:54
+logfile_3.log,Orange,Y8J05NSC,367,Data session ended,DATA_END,10/23/2024 19:55
+logfile_10.log,Vodafone,D7TFZHW7,46,Battery low,BATT_LOW,10/14/2024 12:14
+logfile_4.log,Telefonica,PUO1YPZF,479,Signal restored,SIG_REST,9/30/2024 23:41
+logfile_10.log,T-Mobile,ZE3Z5DKP,323,Disconnected from network,NET_DISC,10/1/2024 12:02
+logfile_3.log,China Mobile,VI55SX0V,21,Battery low,BATT_LOW,9/26/2024 19:44
+logfile_8.log,T-Mobile,5SGV41PR,46,Disconnected from network,NET_DISC,10/9/2024 0:32
+logfile_6.log,China Mobile,YBB9W6J0,384,Data session started,DATA_START,10/14/2024 8:11
+logfile_6.log,T-Mobile,Z5WQAIF5,348,Battery low,BATT_LOW,10/9/2024 11:28
+logfile_8.log,Vodafone,JHGM9AFG,754,Firmware updated,FW_UPD,10/5/2024 11:27
+logfile_4.log,Telefonica,SYGTEKFX,478,Connected to network,NET_CONN,10/25/2024 3:29
+logfile_4.log,Telecom Italia,XH1U86FZ,828,Connected to network,NET_CONN,10/23/2024 10:47
+logfile_9.log,Deutsche Telekom,RLX7J064,148,Unauthorized access attempt,SEC_ALERT,10/3/2024 15:56
+logfile_3.log,Verizon,6WEFRCOR,307,Disconnected from network,NET_DISC,10/9/2024 10:03
+logfile_7.log,T-Mobile,HB1N4IKD,39,Data session ended,DATA_END,9/24/2024 16:50
+logfile_10.log,T-Mobile,KPTP4SAV,265,Signal lost,SIG_LOST,9/25/2024 17:05
+logfile_4.log,Deutsche Telekom,OH1A3OJU,209,Disconnected from network,NET_DISC,10/24/2024 6:00
+logfile_3.log,Telecom Italia,VF9YTYMJ,690,Battery charging,BATT_CHRG,9/25/2024 2:49
+logfile_8.log,China Mobile,ZZOHSWGJ,721,Disconnected from network,NET_DISC,10/22/2024 18:26
+logfile_4.log,AT&T,419JL287,663,Battery charging,BATT_CHRG,10/21/2024 21:53
+logfile_4.log,AT&T,PQX1SQKZ,40,Disconnected from network,NET_DISC,9/24/2024 23:37
+logfile_6.log,Telefonica,5FVR5Q7X,886,Battery charging,BATT_CHRG,10/25/2024 6:46
+logfile_8.log,Deutsche Telekom,P7MH88E1,870,Disconnected from network,NET_DISC,10/22/2024 8:53
+logfile_6.log,Sprint,BD4421D4,928,Unauthorized access attempt,SEC_ALERT,10/11/2024 18:20
+logfile_5.log,Sprint,IBN2J1S9,320,Data session started,DATA_START,10/19/2024 22:55
+logfile_2.log,Deutsche Telekom,OF53JK8W,792,Signal lost,SIG_LOST,10/9/2024 19:52
+logfile_1.log,Telecom Italia,9NTBG80H,257,Connected to network,NET_CONN,10/2/2024 15:02
+logfile_6.log,China Mobile,N1JHG3RG,282,Unauthorized access attempt,SEC_ALERT,9/25/2024 20:28
+logfile_1.log,Vodafone,4FPFSO5C,334,Unauthorized access attempt,SEC_ALERT,10/18/2024 16:54
+logfile_8.log,Vodafone,BP5T7E0V,890,Battery charging,BATT_CHRG,10/13/2024 20:31
+logfile_2.log,Vodafone,ACGYLCM9,675,Disconnected from network,NET_DISC,10/13/2024 14:14
+logfile_5.log,Sprint,BVEUTUMP,731,Data session started,DATA_START,10/8/2024 5:57
+logfile_2.log,Telecom Italia,K37NB0HV,736,Battery charging,BATT_CHRG,10/22/2024 9:13
+logfile_7.log,AT&T,ZPOJ1HV7,664,Signal restored,SIG_REST,10/12/2024 9:56
+logfile_10.log,Sprint,KRODMG6Y,354,Battery low,BATT_LOW,10/5/2024 0:55
+logfile_4.log,Verizon,WIP0AFCU,279,Data session started,DATA_START,9/27/2024 16:00
+logfile_7.log,Telefonica,CF13N5ID,300,Firmware updated,FW_UPD,9/30/2024 3:07
+logfile_10.log,AT&T,4YUL85WR,544,Connected to network,NET_CONN,10/6/2024 8:59
+logfile_8.log,T-Mobile,C0AML14W,880,Data session started,DATA_START,9/30/2024 17:40
+logfile_6.log,Vodafone,M6NVUMZH,846,Disconnected from network,NET_DISC,9/27/2024 14:17
+logfile_7.log,T-Mobile,GXDUKC2N,866,Unauthorized access attempt,SEC_ALERT,10/9/2024 9:06
+logfile_2.log,AT&T,EWD573F9,473,Unauthorized access attempt,SEC_ALERT,9/24/2024 17:17
+logfile_4.log,Verizon,PJO4UDD9,388,Battery low,BATT_LOW,9/30/2024 7:51
+logfile_8.log,Vodafone,VZJE81Y9,800,Connected to network,NET_CONN,10/12/2024 1:21
+logfile_1.log,Orange,FKQJQ5QY,337,Unauthorized access attempt,SEC_ALERT,10/6/2024 12:51
+logfile_10.log,Telefonica,4FFSX4SH,935,Data session started,DATA_START,10/15/2024 19:22
+logfile_9.log,Verizon,VMTA34FC,878,Unauthorized access attempt,SEC_ALERT,10/16/2024 19:57
+logfile_3.log,Vodafone,LG2FMOK5,525,Battery charging,BATT_CHRG,10/3/2024 12:55
+logfile_10.log,Verizon,4YE5CJR0,644,Signal restored,SIG_REST,10/18/2024 18:10
+logfile_5.log,T-Mobile,26R7EK0S,223,Signal lost,SIG_LOST,10/4/2024 8:57
+logfile_10.log,Verizon,PDQE861V,60,Data session started,DATA_START,9/26/2024 22:48
+logfile_3.log,Sprint,43W0B39M,178,Signal lost,SIG_LOST,10/13/2024 4:29
+logfile_9.log,Verizon,V955IPO5,112,Signal lost,SIG_LOST,9/29/2024 22:02
+logfile_8.log,AT&T,7Q8YA8ET,845,Battery low,BATT_LOW,10/14/2024 14:21
+logfile_10.log,AT&T,KHXT13HE,185,Signal restored,SIG_REST,9/25/2024 6:03
+logfile_6.log,Verizon,4NOPZN85,861,Data session ended,DATA_END,9/29/2024 6:34
+logfile_9.log,Orange,LW52Q530,495,Firmware updated,FW_UPD,10/17/2024 6:52
+logfile_3.log,Verizon,CKTGUAHV,585,Data session ended,DATA_END,10/13/2024 15:33
+logfile_3.log,Vodafone,OFKQL7RL,28,Connected to network,NET_CONN,9/29/2024 15:59
+logfile_4.log,AT&T,5WF1OQNB,812,Signal restored,SIG_REST,10/6/2024 12:18
+logfile_3.log,China Mobile,SDQVKJ43,816,Signal lost,SIG_LOST,9/25/2024 6:47
+logfile_5.log,Telefonica,53H2Y9YB,538,Signal lost,SIG_LOST,10/17/2024 1:54
+logfile_2.log,China Mobile,6ZX2GSZ9,788,Data session ended,DATA_END,9/28/2024 0:55
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_10.log,Telecom Italia,N73GMTTN,39,Data session started,DATA_START,10/10/2024 8:48
+logfile_7.log,Telefonica,UJ3NIXCH,783,Disconnected from network,NET_DISC,10/8/2024 22:52
+logfile_10.log,Telecom Italia,WMUFWZGT,412,Unauthorized access attempt,SEC_ALERT,9/26/2024 17:03
+logfile_6.log,Telefonica,UF09QWF9,195,Signal lost,SIG_LOST,10/9/2024 13:03
+logfile_2.log,Vodafone,IJ8AQF4U,899,Signal lost,SIG_LOST,10/9/2024 13:22
+logfile_7.log,Orange,296XIB8M,99,Disconnected from network,NET_DISC,9/29/2024 20:42
+logfile_10.log,Orange,43A35H5P,691,Disconnected from network,NET_DISC,10/11/2024 13:23
+logfile_10.log,Deutsche Telekom,9RQR2S9L,779,Data session started,DATA_START,10/15/2024 8:42
+logfile_1.log,Deutsche Telekom,7GG7A753,129,Unauthorized access attempt,SEC_ALERT,10/19/2024 18:12
+logfile_2.log,Telecom Italia,EILWNKQB,802,Data session ended,DATA_END,9/30/2024 11:06
+logfile_3.log,Verizon,WZ66K6L1,859,Connected to network,NET_CONN,9/29/2024 17:26
+logfile_1.log,Telefonica,1KOQU76W,476,Disconnected from network,NET_DISC,9/26/2024 3:34
+logfile_1.log,Deutsche Telekom,1RL2RVP2,67,Disconnected from network,NET_DISC,10/20/2024 21:22
+logfile_2.log,Sprint,H236V5RR,470,Signal lost,SIG_LOST,10/19/2024 8:15
+logfile_8.log,Vodafone,BF5VXP3D,18,Connected to network,NET_CONN,10/24/2024 17:14
+logfile_2.log,Deutsche Telekom,NJU8RXFV,733,Battery charging,BATT_CHRG,9/25/2024 14:41
+logfile_6.log,AT&T,9KT6MGB9,277,Firmware updated,FW_UPD,10/5/2024 16:24
+logfile_3.log,Orange,U8WLSCRR,843,Battery charging,BATT_CHRG,10/11/2024 21:55
+logfile_8.log,Deutsche Telekom,LB99G4VZ,427,Signal restored,SIG_REST,9/26/2024 5:21
+logfile_8.log,Vodafone,VBDUZITP,113,Unauthorized access attempt,SEC_ALERT,9/28/2024 20:07
+logfile_7.log,China Mobile,T5LWSK96,668,Unauthorized access attempt,SEC_ALERT,10/18/2024 1:37
+logfile_5.log,Verizon,EX77EFI5,223,Disconnected from network,NET_DISC,10/21/2024 9:26
+logfile_1.log,Vodafone,YM1IKXCT,506,Data session ended,DATA_END,9/27/2024 21:40
+logfile_2.log,Vodafone,TIV623B0,304,Data session ended,DATA_END,10/23/2024 11:20
+logfile_1.log,Deutsche Telekom,VG6K7EU0,228,Battery charging,BATT_CHRG,10/1/2024 11:05
+logfile_4.log,Orange,ZCF86UT2,331,Disconnected from network,NET_DISC,10/13/2024 6:08
+logfile_8.log,Telecom Italia,MSX0EGZS,167,Disconnected from network,NET_DISC,10/22/2024 3:37
+logfile_5.log,Telefonica,SMEIZGXJ,490,Firmware updated,FW_UPD,9/25/2024 10:53
+logfile_3.log,Orange,MV4PFYHJ,607,Connected to network,NET_CONN,10/9/2024 19:58
+logfile_6.log,China Mobile,F0FVKDW7,147,Signal restored,SIG_REST,10/23/2024 13:01
+logfile_9.log,Sprint,WXQQBSXK,769,Data session ended,DATA_END,10/24/2024 6:36
+logfile_3.log,Deutsche Telekom,O4WSEO1T,849,Firmware updated,FW_UPD,10/6/2024 17:14
+logfile_4.log,China Mobile,P0YUVAAE,809,Disconnected from network,NET_DISC,10/15/2024 21:21
+logfile_10.log,Orange,EOFMU7JH,7,Data session ended,DATA_END,10/3/2024 21:54
+logfile_5.log,AT&T,0PTLGQQU,887,Connected to network,NET_CONN,10/4/2024 23:20
+logfile_2.log,Orange,3J5I05DR,174,Data session ended,DATA_END,10/14/2024 15:01
+logfile_6.log,Deutsche Telekom,ESQUZD6Z,212,Data session ended,DATA_END,10/13/2024 13:54
+logfile_3.log,Orange,Y8J05NSC,367,Data session ended,DATA_END,10/23/2024 19:55
+logfile_10.log,Vodafone,D7TFZHW7,46,Battery low,BATT_LOW,10/14/2024 12:14
+logfile_4.log,Telefonica,PUO1YPZF,479,Signal restored,SIG_REST,9/30/2024 23:41
+logfile_10.log,T-Mobile,ZE3Z5DKP,323,Disconnected from network,NET_DISC,10/1/2024 12:02
+logfile_3.log,China Mobile,VI55SX0V,21,Battery low,BATT_LOW,9/26/2024 19:44
+logfile_8.log,T-Mobile,5SGV41PR,46,Disconnected from network,NET_DISC,10/9/2024 0:32
+logfile_6.log,China Mobile,YBB9W6J0,384,Data session started,DATA_START,10/14/2024 8:11
+logfile_6.log,T-Mobile,Z5WQAIF5,348,Battery low,BATT_LOW,10/9/2024 11:28
+logfile_8.log,Vodafone,JHGM9AFG,754,Firmware updated,FW_UPD,10/5/2024 11:27
+logfile_4.log,Telefonica,SYGTEKFX,478,Connected to network,NET_CONN,10/25/2024 3:29
+logfile_4.log,Telecom Italia,XH1U86FZ,828,Connected to network,NET_CONN,10/23/2024 10:47
+logfile_9.log,Deutsche Telekom,RLX7J064,148,Unauthorized access attempt,SEC_ALERT,10/3/2024 15:56
+logfile_3.log,Verizon,6WEFRCOR,307,Disconnected from network,NET_DISC,10/9/2024 10:03
+logfile_7.log,T-Mobile,HB1N4IKD,39,Data session ended,DATA_END,9/24/2024 16:50
+logfile_10.log,T-Mobile,KPTP4SAV,265,Signal lost,SIG_LOST,9/25/2024 17:05
+logfile_4.log,Deutsche Telekom,OH1A3OJU,209,Disconnected from network,NET_DISC,10/24/2024 6:00
+logfile_3.log,Telecom Italia,VF9YTYMJ,690,Battery charging,BATT_CHRG,9/25/2024 2:49
+logfile_8.log,China Mobile,ZZOHSWGJ,721,Disconnected from network,NET_DISC,10/22/2024 18:26
+logfile_4.log,AT&T,419JL287,663,Battery charging,BATT_CHRG,10/21/2024 21:53
+logfile_4.log,AT&T,PQX1SQKZ,40,Disconnected from network,NET_DISC,9/24/2024 23:37
+logfile_6.log,Telefonica,5FVR5Q7X,886,Battery charging,BATT_CHRG,10/25/2024 6:46
+logfile_8.log,Deutsche Telekom,P7MH88E1,870,Disconnected from network,NET_DISC,10/22/2024 8:53
+logfile_6.log,Sprint,BD4421D4,928,Unauthorized access attempt,SEC_ALERT,10/11/2024 18:20
+logfile_5.log,Sprint,IBN2J1S9,320,Data session started,DATA_START,10/19/2024 22:55
+logfile_2.log,Deutsche Telekom,OF53JK8W,792,Signal lost,SIG_LOST,10/9/2024 19:52
+logfile_1.log,Telecom Italia,9NTBG80H,257,Connected to network,NET_CONN,10/2/2024 15:02
+logfile_6.log,China Mobile,N1JHG3RG,282,Unauthorized access attempt,SEC_ALERT,9/25/2024 20:28
+logfile_1.log,Vodafone,4FPFSO5C,334,Unauthorized access attempt,SEC_ALERT,10/18/2024 16:54
+logfile_8.log,Vodafone,BP5T7E0V,890,Battery charging,BATT_CHRG,10/13/2024 20:31
+logfile_2.log,Vodafone,ACGYLCM9,675,Disconnected from network,NET_DISC,10/13/2024 14:14
+logfile_5.log,Sprint,BVEUTUMP,731,Data session started,DATA_START,10/8/2024 5:57
+logfile_2.log,Telecom Italia,K37NB0HV,736,Battery charging,BATT_CHRG,10/22/2024 9:13
+logfile_7.log,AT&T,ZPOJ1HV7,664,Signal restored,SIG_REST,10/12/2024 9:56
+logfile_10.log,Sprint,KRODMG6Y,354,Battery low,BATT_LOW,10/5/2024 0:55
+logfile_4.log,Verizon,WIP0AFCU,279,Data session started,DATA_START,9/27/2024 16:00
+logfile_7.log,Telefonica,CF13N5ID,300,Firmware updated,FW_UPD,9/30/2024 3:07
+logfile_10.log,AT&T,4YUL85WR,544,Connected to network,NET_CONN,10/6/2024 8:59
+logfile_8.log,T-Mobile,C0AML14W,880,Data session started,DATA_START,9/30/2024 17:40
+logfile_6.log,Vodafone,M6NVUMZH,846,Disconnected from network,NET_DISC,9/27/2024 14:17
+logfile_7.log,T-Mobile,GXDUKC2N,866,Unauthorized access attempt,SEC_ALERT,10/9/2024 9:06
+logfile_2.log,AT&T,EWD573F9,473,Unauthorized access attempt,SEC_ALERT,9/24/2024 17:17
+logfile_4.log,Verizon,PJO4UDD9,388,Battery low,BATT_LOW,9/30/2024 7:51
+logfile_8.log,Vodafone,VZJE81Y9,800,Connected to network,NET_CONN,10/12/2024 1:21
+logfile_1.log,Orange,FKQJQ5QY,337,Unauthorized access attempt,SEC_ALERT,10/6/2024 12:51
+logfile_10.log,Telefonica,4FFSX4SH,935,Data session started,DATA_START,10/15/2024 19:22
+logfile_9.log,Verizon,VMTA34FC,878,Unauthorized access attempt,SEC_ALERT,10/16/2024 19:57
+logfile_3.log,Vodafone,LG2FMOK5,525,Battery charging,BATT_CHRG,10/3/2024 12:55
+logfile_10.log,Verizon,4YE5CJR0,644,Signal restored,SIG_REST,10/18/2024 18:10
+logfile_5.log,T-Mobile,26R7EK0S,223,Signal lost,SIG_LOST,10/4/2024 8:57
+logfile_10.log,Verizon,PDQE861V,60,Data session started,DATA_START,9/26/2024 22:48
+logfile_3.log,Sprint,43W0B39M,178,Signal lost,SIG_LOST,10/13/2024 4:29
+logfile_9.log,Verizon,V955IPO5,112,Signal lost,SIG_LOST,9/29/2024 22:02
+logfile_8.log,AT&T,7Q8YA8ET,845,Battery low,BATT_LOW,10/14/2024 14:21
+logfile_10.log,AT&T,KHXT13HE,185,Signal restored,SIG_REST,9/25/2024 6:03
+logfile_6.log,Verizon,4NOPZN85,861,Data session ended,DATA_END,9/29/2024 6:34
+logfile_9.log,Orange,LW52Q530,495,Firmware updated,FW_UPD,10/17/2024 6:52
+logfile_3.log,Verizon,CKTGUAHV,585,Data session ended,DATA_END,10/13/2024 15:33
+logfile_3.log,Vodafone,OFKQL7RL,28,Connected to network,NET_CONN,9/29/2024 15:59
+logfile_4.log,AT&T,5WF1OQNB,812,Signal restored,SIG_REST,10/6/2024 12:18
+logfile_3.log,China Mobile,SDQVKJ43,816,Signal lost,SIG_LOST,9/25/2024 6:47
+logfile_5.log,Telefonica,53H2Y9YB,538,Signal lost,SIG_LOST,10/17/2024 1:54
+logfile_2.log,China Mobile,6ZX2GSZ9,788,Data session ended,DATA_END,9/28/2024 0:55
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_10.log,Telecom Italia,N73GMTTN,39,Data session started,DATA_START,10/10/2024 8:48
+logfile_7.log,Telefonica,UJ3NIXCH,783,Disconnected from network,NET_DISC,10/8/2024 22:52
+logfile_10.log,Telecom Italia,WMUFWZGT,412,Unauthorized access attempt,SEC_ALERT,9/26/2024 17:03
+logfile_6.log,Telefonica,UF09QWF9,195,Signal lost,SIG_LOST,10/9/2024 13:03
+logfile_2.log,Vodafone,IJ8AQF4U,899,Signal lost,SIG_LOST,10/9/2024 13:22
+logfile_7.log,Orange,296XIB8M,99,Disconnected from network,NET_DISC,9/29/2024 20:42
+logfile_10.log,Orange,43A35H5P,691,Disconnected from network,NET_DISC,10/11/2024 13:23
+logfile_10.log,Deutsche Telekom,9RQR2S9L,779,Data session started,DATA_START,10/15/2024 8:42
+logfile_1.log,Deutsche Telekom,7GG7A753,129,Unauthorized access attempt,SEC_ALERT,10/19/2024 18:12
+logfile_2.log,Telecom Italia,EILWNKQB,802,Data session ended,DATA_END,9/30/2024 11:06
+logfile_3.log,Verizon,WZ66K6L1,859,Connected to network,NET_CONN,9/29/2024 17:26
+logfile_1.log,Telefonica,1KOQU76W,476,Disconnected from network,NET_DISC,9/26/2024 3:34
+logfile_1.log,Deutsche Telekom,1RL2RVP2,67,Disconnected from network,NET_DISC,10/20/2024 21:22
+logfile_2.log,Sprint,H236V5RR,470,Signal lost,SIG_LOST,10/19/2024 8:15
+logfile_8.log,Vodafone,BF5VXP3D,18,Connected to network,NET_CONN,10/24/2024 17:14
+logfile_2.log,Deutsche Telekom,NJU8RXFV,733,Battery charging,BATT_CHRG,9/25/2024 14:41
+logfile_6.log,AT&T,9KT6MGB9,277,Firmware updated,FW_UPD,10/5/2024 16:24
+logfile_3.log,Orange,U8WLSCRR,843,Battery charging,BATT_CHRG,10/11/2024 21:55
+logfile_8.log,Deutsche Telekom,LB99G4VZ,427,Signal restored,SIG_REST,9/26/2024 5:21
+logfile_8.log,Vodafone,VBDUZITP,113,Unauthorized access attempt,SEC_ALERT,9/28/2024 20:07
+logfile_7.log,China Mobile,T5LWSK96,668,Unauthorized access attempt,SEC_ALERT,10/18/2024 1:37
+logfile_5.log,Verizon,EX77EFI5,223,Disconnected from network,NET_DISC,10/21/2024 9:26
+logfile_1.log,Vodafone,YM1IKXCT,506,Data session ended,DATA_END,9/27/2024 21:40
+logfile_2.log,Vodafone,TIV623B0,304,Data session ended,DATA_END,10/23/2024 11:20
+logfile_1.log,Deutsche Telekom,VG6K7EU0,228,Battery charging,BATT_CHRG,10/1/2024 11:05
+logfile_4.log,Orange,ZCF86UT2,331,Disconnected from network,NET_DISC,10/13/2024 6:08
+logfile_8.log,Telecom Italia,MSX0EGZS,167,Disconnected from network,NET_DISC,10/22/2024 3:37
+logfile_5.log,Telefonica,SMEIZGXJ,490,Firmware updated,FW_UPD,9/25/2024 10:53
+logfile_3.log,Orange,MV4PFYHJ,607,Connected to network,NET_CONN,10/9/2024 19:58
+logfile_6.log,China Mobile,F0FVKDW7,147,Signal restored,SIG_REST,10/23/2024 13:01
+logfile_9.log,Sprint,WXQQBSXK,769,Data session ended,DATA_END,10/24/2024 6:36
+logfile_3.log,Deutsche Telekom,O4WSEO1T,849,Firmware updated,FW_UPD,10/6/2024 17:14
+logfile_4.log,China Mobile,P0YUVAAE,809,Disconnected from network,NET_DISC,10/15/2024 21:21
+logfile_10.log,Orange,EOFMU7JH,7,Data session ended,DATA_END,10/3/2024 21:54
+logfile_5.log,AT&T,0PTLGQQU,887,Connected to network,NET_CONN,10/4/2024 23:20
+logfile_2.log,Orange,3J5I05DR,174,Data session ended,DATA_END,10/14/2024 15:01
+logfile_6.log,Deutsche Telekom,ESQUZD6Z,212,Data session ended,DATA_END,10/13/2024 13:54
+logfile_3.log,Orange,Y8J05NSC,367,Data session ended,DATA_END,10/23/2024 19:55
+logfile_10.log,Vodafone,D7TFZHW7,46,Battery low,BATT_LOW,10/14/2024 12:14
+logfile_4.log,Telefonica,PUO1YPZF,479,Signal restored,SIG_REST,9/30/2024 23:41
+logfile_10.log,T-Mobile,ZE3Z5DKP,323,Disconnected from network,NET_DISC,10/1/2024 12:02
+logfile_3.log,China Mobile,VI55SX0V,21,Battery low,BATT_LOW,9/26/2024 19:44
+logfile_8.log,T-Mobile,5SGV41PR,46,Disconnected from network,NET_DISC,10/9/2024 0:32
+logfile_6.log,China Mobile,YBB9W6J0,384,Data session started,DATA_START,10/14/2024 8:11
+logfile_6.log,T-Mobile,Z5WQAIF5,348,Battery low,BATT_LOW,10/9/2024 11:28
+logfile_8.log,Vodafone,JHGM9AFG,754,Firmware updated,FW_UPD,10/5/2024 11:27
+logfile_4.log,Telefonica,SYGTEKFX,478,Connected to network,NET_CONN,10/25/2024 3:29
+logfile_4.log,Telecom Italia,XH1U86FZ,828,Connected to network,NET_CONN,10/23/2024 10:47
+logfile_9.log,Deutsche Telekom,RLX7J064,148,Unauthorized access attempt,SEC_ALERT,10/3/2024 15:56
+logfile_3.log,Verizon,6WEFRCOR,307,Disconnected from network,NET_DISC,10/9/2024 10:03
+logfile_7.log,T-Mobile,HB1N4IKD,39,Data session ended,DATA_END,9/24/2024 16:50
+logfile_10.log,T-Mobile,KPTP4SAV,265,Signal lost,SIG_LOST,9/25/2024 17:05
+logfile_4.log,Deutsche Telekom,OH1A3OJU,209,Disconnected from network,NET_DISC,10/24/2024 6:00
+logfile_3.log,Telecom Italia,VF9YTYMJ,690,Battery charging,BATT_CHRG,9/25/2024 2:49
+logfile_8.log,China Mobile,ZZOHSWGJ,721,Disconnected from network,NET_DISC,10/22/2024 18:26
+logfile_4.log,AT&T,419JL287,663,Battery charging,BATT_CHRG,10/21/2024 21:53
+logfile_4.log,AT&T,PQX1SQKZ,40,Disconnected from network,NET_DISC,9/24/2024 23:37
+logfile_6.log,Telefonica,5FVR5Q7X,886,Battery charging,BATT_CHRG,10/25/2024 6:46
+logfile_8.log,Deutsche Telekom,P7MH88E1,870,Disconnected from network,NET_DISC,10/22/2024 8:53
+logfile_6.log,Sprint,BD4421D4,928,Unauthorized access attempt,SEC_ALERT,10/11/2024 18:20
+logfile_5.log,Sprint,IBN2J1S9,320,Data session started,DATA_START,10/19/2024 22:55
+logfile_2.log,Deutsche Telekom,OF53JK8W,792,Signal lost,SIG_LOST,10/9/2024 19:52
+logfile_1.log,Telecom Italia,9NTBG80H,257,Connected to network,NET_CONN,10/2/2024 15:02
+logfile_6.log,China Mobile,N1JHG3RG,282,Unauthorized access attempt,SEC_ALERT,9/25/2024 20:28
+logfile_1.log,Vodafone,4FPFSO5C,334,Unauthorized access attempt,SEC_ALERT,10/18/2024 16:54
+logfile_8.log,Vodafone,BP5T7E0V,890,Battery charging,BATT_CHRG,10/13/2024 20:31
+logfile_2.log,Vodafone,ACGYLCM9,675,Disconnected from network,NET_DISC,10/13/2024 14:14
+logfile_5.log,Sprint,BVEUTUMP,731,Data session started,DATA_START,10/8/2024 5:57
+logfile_2.log,Telecom Italia,K37NB0HV,736,Battery charging,BATT_CHRG,10/22/2024 9:13
+logfile_7.log,AT&T,ZPOJ1HV7,664,Signal restored,SIG_REST,10/12/2024 9:56
+logfile_10.log,Sprint,KRODMG6Y,354,Battery low,BATT_LOW,10/5/2024 0:55
+logfile_4.log,Verizon,WIP0AFCU,279,Data session started,DATA_START,9/27/2024 16:00
+logfile_7.log,Telefonica,CF13N5ID,300,Firmware updated,FW_UPD,9/30/2024 3:07
+logfile_10.log,AT&T,4YUL85WR,544,Connected to network,NET_CONN,10/6/2024 8:59
+logfile_8.log,T-Mobile,C0AML14W,880,Data session started,DATA_START,9/30/2024 17:40
+logfile_6.log,Vodafone,M6NVUMZH,846,Disconnected from network,NET_DISC,9/27/2024 14:17
+logfile_7.log,T-Mobile,GXDUKC2N,866,Unauthorized access attempt,SEC_ALERT,10/9/2024 9:06
+logfile_2.log,AT&T,EWD573F9,473,Unauthorized access attempt,SEC_ALERT,9/24/2024 17:17
+logfile_4.log,Verizon,PJO4UDD9,388,Battery low,BATT_LOW,9/30/2024 7:51
+logfile_8.log,Vodafone,VZJE81Y9,800,Connected to network,NET_CONN,10/12/2024 1:21
+logfile_1.log,Orange,FKQJQ5QY,337,Unauthorized access attempt,SEC_ALERT,10/6/2024 12:51
+logfile_10.log,Telefonica,4FFSX4SH,935,Data session started,DATA_START,10/15/2024 19:22
+logfile_9.log,Verizon,VMTA34FC,878,Unauthorized access attempt,SEC_ALERT,10/16/2024 19:57
+logfile_3.log,Vodafone,LG2FMOK5,525,Battery charging,BATT_CHRG,10/3/2024 12:55
+logfile_10.log,Verizon,4YE5CJR0,644,Signal restored,SIG_REST,10/18/2024 18:10
+logfile_5.log,T-Mobile,26R7EK0S,223,Signal lost,SIG_LOST,10/4/2024 8:57
+logfile_10.log,Verizon,PDQE861V,60,Data session started,DATA_START,9/26/2024 22:48
+logfile_3.log,Sprint,43W0B39M,178,Signal lost,SIG_LOST,10/13/2024 4:29
+logfile_9.log,Verizon,V955IPO5,112,Signal lost,SIG_LOST,9/29/2024 22:02
+logfile_8.log,AT&T,7Q8YA8ET,845,Battery low,BATT_LOW,10/14/2024 14:21
+logfile_10.log,AT&T,KHXT13HE,185,Signal restored,SIG_REST,9/25/2024 6:03
+logfile_6.log,Verizon,4NOPZN85,861,Data session ended,DATA_END,9/29/2024 6:34
+logfile_9.log,Orange,LW52Q530,495,Firmware updated,FW_UPD,10/17/2024 6:52
+logfile_3.log,Verizon,CKTGUAHV,585,Data session ended,DATA_END,10/13/2024 15:33
+logfile_3.log,Vodafone,OFKQL7RL,28,Connected to network,NET_CONN,9/29/2024 15:59
+logfile_4.log,AT&T,5WF1OQNB,812,Signal restored,SIG_REST,10/6/2024 12:18
+logfile_3.log,China Mobile,SDQVKJ43,816,Signal lost,SIG_LOST,9/25/2024 6:47
+logfile_5.log,Telefonica,53H2Y9YB,538,Signal lost,SIG_LOST,10/17/2024 1:54
+logfile_2.log,China Mobile,6ZX2GSZ9,788,Data session ended,DATA_END,9/28/2024 0:55
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_4.log,T-Mobile,W7DZBB8B,577,Signal lost,SIG_LOST,10/5/2024 20:36
+logfile_10.log,Telecom Italia,N73GMTTN,39,Data session started,DATA_START,10/10/2024 8:48
+logfile_7.log,Telefonica,UJ3NIXCH,783,Disconnected from network,NET_DISC,10/8/2024 22:52
+logfile_10.log,Telecom Italia,WMUFWZGT,412,Unauthorized access attempt,SEC_ALERT,9/26/2024 17:03
+logfile_6.log,Telefonica,UF09QWF9,195,Signal lost,SIG_LOST,10/9/2024 13:03
+logfile_2.log,Vodafone,IJ8AQF4U,899,Signal lost,SIG_LOST,10/9/2024 13:22
+logfile_7.log,Orange,296XIB8M,99,Disconnected from network,NET_DISC,9/29/2024 20:42
+logfile_10.log,Orange,43A35H5P,691,Disconnected from network,NET_DISC,10/11/2024 13:23
+logfile_10.log,Deutsche Telekom,9RQR2S9L,779,Data session started,DATA_START,10/15/2024 8:42
+logfile_1.log,Deutsche Telekom,7GG7A753,129,Unauthorized access attempt,SEC_ALERT,10/19/2024 18:12
+logfile_2.log,Telecom Italia,EILWNKQB,802,Data session ended,DATA_END,9/30/2024 11:06
+logfile_3.log,Verizon,WZ66K6L1,859,Connected to network,NET_CONN,9/29/2024 17:26
+logfile_1.log,Telefonica,1KOQU76W,476,Disconnected from network,NET_DISC,9/26/2024 3:34
+logfile_1.log,Deutsche Telekom,1RL2RVP2,67,Disconnected from network,NET_DISC,10/20/2024 21:22
+logfile_2.log,Sprint,H236V5RR,470,Signal lost,SIG_LOST,10/19/2024 8:15
+logfile_8.log,Vodafone,BF5VXP3D,18,Connected to network,NET_CONN,10/24/2024 17:14
+logfile_2.log,Deutsche Telekom,NJU8RXFV,733,Battery charging,BATT_CHRG,9/25/2024 14:41
+logfile_6.log,AT&T,9KT6MGB9,277,Firmware updated,FW_UPD,10/5/2024 16:24
+logfile_3.log,Orange,U8WLSCRR,843,Battery charging,BATT_CHRG,10/11/2024 21:55
+logfile_8.log,Deutsche Telekom,LB99G4VZ,427,Signal restored,SIG_REST,9/26/2024 5:21
+logfile_8.log,Vodafone,VBDUZITP,113,Unauthorized access attempt,SEC_ALERT,9/28/2024 20:07
+logfile_7.log,China Mobile,T5LWSK96,668,Unauthorized access attempt,SEC_ALERT,10/18/2024 1:37
+logfile_5.log,Verizon,EX77EFI5,223,Disconnected from network,NET_DISC,10/21/2024 9:26
+logfile_1.log,Vodafone,YM1IKXCT,506,Data session ended,DATA_END,9/27/2024 21:40
+logfile_2.log,Vodafone,TIV623B0,304,Data session ended,DATA_END,10/23/2024 11:20
+logfile_1.log,Deutsche Telekom,VG6K7EU0,228,Battery charging,BATT_CHRG,10/1/2024 11:05
+logfile_4.log,Orange,ZCF86UT2,331,Disconnected from network,NET_DISC,10/13/2024 6:08
+logfile_8.log,Telecom Italia,MSX0EGZS,167,Disconnected from network,NET_DISC,10/22/2024 3:37
+logfile_5.log,Telefonica,SMEIZGXJ,490,Firmware updated,FW_UPD,9/25/2024 10:53
+logfile_3.log,Orange,MV4PFYHJ,607,Connected to network,NET_CONN,10/9/2024 19:58
+logfile_6.log,China Mobile,F0FVKDW7,147,Signal restored,SIG_REST,10/23/2024 13:01
+logfile_9.log,Sprint,WXQQBSXK,769,Data session ended,DATA_END,10/24/2024 6:36
+logfile_3.log,Deutsche Telekom,O4WSEO1T,849,Firmware updated,FW_UPD,10/6/2024 17:14
+logfile_4.log,China Mobile,P0YUVAAE,809,Disconnected from network,NET_DISC,10/15/2024 21:21
+logfile_10.log,Orange,EOFMU7JH,7,Data session ended,DATA_END,10/3/2024 21:54
+logfile_5.log,AT&T,0PTLGQQU,887,Connected to network,NET_CONN,10/4/2024 23:20
+logfile_2.log,Orange,3J5I05DR,174,Data session ended,DATA_END,10/14/2024 15:01
+logfile_6.log,Deutsche Telekom,ESQUZD6Z,212,Data session ended,DATA_END,10/13/2024 13:54
+logfile_3.log,Orange,Y8J05NSC,367,Data session ended,DATA_END,10/23/2024 19:55
+logfile_10.log,Vodafone,D7TFZHW7,46,Battery low,BATT_LOW,10/14/2024 12:14
+logfile_4.log,Telefonica,PUO1YPZF,479,Signal restored,SIG_REST,9/30/2024 23:41
+logfile_10.log,T-Mobile,ZE3Z5DKP,323,Disconnected from network,NET_DISC,10/1/2024 12:02
+logfile_3.log,China Mobile,VI55SX0V,21,Battery low,BATT_LOW,9/26/2024 19:44
+logfile_8.log,T-Mobile,5SGV41PR,46,Disconnected from network,NET_DISC,10/9/2024 0:32
+logfile_6.log,China Mobile,YBB9W6J0,384,Data session started,DATA_START,10/14/2024 8:11
+logfile_6.log,T-Mobile,Z5WQAIF5,348,Battery low,BATT_LOW,10/9/2024 11:28
+logfile_8.log,Vodafone,JHGM9AFG,754,Firmware updated,FW_UPD,10/5/2024 11:27
+logfile_4.log,Telefonica,SYGTEKFX,478,Connected to network,NET_CONN,10/25/2024 3:29
+logfile_4.log,Telecom Italia,XH1U86FZ,828,Connected to network,NET_CONN,10/23/2024 10:47
+logfile_9.log,Deutsche Telekom,RLX7J064,148,Unauthorized access attempt,SEC_ALERT,10/3/2024 15:56
+logfile_3.log,Verizon,6WEFRCOR,307,Disconnected from network,NET_DISC,10/9/2024 10:03
+logfile_7.log,T-Mobile,HB1N4IKD,39,Data session ended,DATA_END,9/24/2024 16:50
+logfile_10.log,T-Mobile,KPTP4SAV,265,Signal lost,SIG_LOST,9/25/2024 17:05
+logfile_4.log,Deutsche Telekom,OH1A3OJU,209,Disconnected from network,NET_DISC,10/24/2024 6:00
+logfile_3.log,Telecom Italia,VF9YTYMJ,690,Battery charging,BATT_CHRG,9/25/2024 2:49
+logfile_8.log,China Mobile,ZZOHSWGJ,721,Disconnected from network,NET_DISC,10/22/2024 18:26
+logfile_4.log,AT&T,419JL287,663,Battery charging,BATT_CHRG,10/21/2024 21:53
+logfile_4.log,AT&T,PQX1SQKZ,40,Disconnected from network,NET_DISC,9/24/2024 23:37
+logfile_6.log,Telefonica,5FVR5Q7X,886,Battery charging,BATT_CHRG,10/25/2024 6:46
+logfile_8.log,Deutsche Telekom,P7MH88E1,870,Disconnected from network,NET_DISC,10/22/2024 8:53
+logfile_6.log,Sprint,BD4421D4,928,Unauthorized access attempt,SEC_ALERT,10/11/2024 18:20
+logfile_5.log,Sprint,IBN2J1S9,320,Data session started,DATA_START,10/19/2024 22:55
+logfile_2.log,Deutsche Telekom,OF53JK8W,792,Signal lost,SIG_LOST,10/9/2024 19:52
+logfile_1.log,Telecom Italia,9NTBG80H,257,Connected to network,NET_CONN,10/2/2024 15:02
+logfile_6.log,China Mobile,N1JHG3RG,282,Unauthorized access attempt,SEC_ALERT,9/25/2024 20:28
+logfile_1.log,Vodafone,4FPFSO5C,334,Unauthorized access attempt,SEC_ALERT,10/18/2024 16:54
+logfile_8.log,Vodafone,BP5T7E0V,890,Battery charging,BATT_CHRG,10/13/2024 20:31
+logfile_2.log,Vodafone,ACGYLCM9,675,Disconnected from network,NET_DISC,10/13/2024 14:14
+logfile_5.log,Sprint,BVEUTUMP,731,Data session started,DATA_START,10/8/2024 5:57
+logfile_2.log,Telecom Italia,K37NB0HV,736,Battery charging,BATT_CHRG,10/22/2024 9:13
+logfile_7.log,AT&T,ZPOJ1HV7,664,Signal restored,SIG_REST,10/12/2024 9:56
+logfile_10.log,Sprint,KRODMG6Y,354,Battery low,BATT_LOW,10/5/2024 0:55
+logfile_4.log,Verizon,WIP0AFCU,279,Data session started,DATA_START,9/27/2024 16:00
+logfile_7.log,Telefonica,CF13N5ID,300,Firmware updated,FW_UPD,9/30/2024 3:07
+logfile_10.log,AT&T,4YUL85WR,544,Connected to network,NET_CONN,10/6/2024 8:59
+logfile_8.log,T-Mobile,C0AML14W,880,Data session started,DATA_START,9/30/2024 17:40
+logfile_6.log,Vodafone,M6NVUMZH,846,Disconnected from network,NET_DISC,9/27/2024 14:17
+logfile_7.log,T-Mobile,GXDUKC2N,866,Unauthorized access attempt,SEC_ALERT,10/9/2024 9:06
+logfile_2.log,AT&T,EWD573F9,473,Unauthorized access attempt,SEC_ALERT,9/24/2024 17:17
+logfile_4.log,Verizon,PJO4UDD9,388,Battery low,BATT_LOW,9/30/2024 7:51
+logfile_8.log,Vodafone,VZJE81Y9,800,Connected to network,NET_CONN,10/12/2024 1:21
+logfile_1.log,Orange,FKQJQ5QY,337,Unauthorized access attempt,SEC_ALERT,10/6/2024 12:51
+logfile_10.log,Telefonica,4FFSX4SH,935,Data session started,DATA_START,10/15/2024 19:22
+logfile_9.log,Verizon,VMTA34FC,878,Unauthorized access attempt,SEC_ALERT,10/16/2024 19:57
+logfile_3.log,Vodafone,LG2FMOK5,525,Battery charging,BATT_CHRG,10/3/2024 12:55
+logfile_10.log,Verizon,4YE5CJR0,644,Signal restored,SIG_REST,10/18/2024 18:10
+logfile_5.log,T-Mobile,26R7EK0S,223,Signal lost,SIG_LOST,10/4/2024 8:57
