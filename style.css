@@ -1,3 +1,15 @@
 .container {
     padding-inline: 20px;
 }
+
+.my-1 {
+    margin-block: 10px;
+}
+
+.my-2 {
+    margin-block: 20px;
+}
+
+.my-3 {
+    margin-block: 40px;
+}
