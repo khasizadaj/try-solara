@@ -13,3 +13,10 @@
 .my-3 {
     margin-block: 40px;
 }
+
+.filters {
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    gap: 20px
+}

@@ -1,62 +1,56 @@
+import logging
 import uuid
 import pandas as pd
+import requests
 import solara
 from solara import (
     Button,
     Column,
     DataFrame,
     FileDownload,
-    Info,
     Path,
     Select,
     Markdown,
     Sidebar,
     Success,
 )
+import openpyxl
 
-LOG_IDS = [
-    "SIG_REST",
-    "NET_DISC",
-    "SEC_ALERT",
-    "SIG_LOST",
-    "BATT_LOW",
-    "DATA_START",
-    "BATT_CHRG",
-    "DATA_END",
-    "NET_CONN",
-    "FW_UPD",
-]
+logging.config.fileConfig("logging.ini")
+logger = logging.getLogger()
 
-CUSTOMERS = [
-    "Verizon",
-    "Sprint",
-    "AT&T",
-    "Orange",
-    "Vodafone",
-    "China Mobile",
-    "Telefonica",
-    "T-Mobile",
-    "Telecom Italia",
-    "Deutsche Telekom",
-]
+category = solara.reactive("")
 
-event_log_id = solara.reactive(LOG_IDS[0])
-customer = solara.reactive(CUSTOMERS[0])
-
-df = pd.read_csv("generated_log_data.csv")
 shown_data = solara.reactive(None)
 saved_data = solara.reactive(None)
 summary_label = solara.reactive("")
 
 
 def show_data():
-    global df
-    result = df[
-        (df["Customer"] == customer.value) & (df["LogId"] == event_log_id.value)
-    ]
+    try:
+        select = [
+            "id",
+            "title",
+            "description",
+            "price",
+            "rating",
+            "sku",
+            "minimumOrderQuantity",
+        ]
+        response = requests.get(
+            f"https://dummyjson.com/products/category/{category.value}?select={','.join(select)}'"
+        )
+        if response.ok:
+            data = response.json()
+        response.raise_for_status()
+    except requests.RequestException:
+        logger.error("Couldn't fetch products.")
+        data = []
+    logger.debug(data)
+    result = pd.DataFrame.from_records(data["products"])
     saved_data.value = result
     shown_data.value = result.head(10)
-    summary_label.value = f"Parsed logs for {customer.value} with {event_log_id.value}. Whole dataset has {saved_data.value.shape[0]} event logs."
+    summary_label.value = f"Queried DummyJson.com for {category.value} category. Whole dataset has {saved_data.value.shape[0]} products."
 
 
 @solara.component
@@ -64,24 +58,40 @@ def Page():
     solara.Style(Path("style.css"))
 
     with solara.Head():
-        solara.Title("Event Log Summarizer")
+        solara.Title("Product Catalog")
 
     with Sidebar():
-        Select(label="Customer", value=customer, values=CUSTOMERS)
-        Select(label="Event Log Identifier", value=event_log_id, values=LOG_IDS)
+        try:
+            response = requests.get("https://dummyjson.com/products/category-list")
+            if response.ok:
+                categories = response.json()
+                Select(label="Category", value=category, values=categories)
+            response.raise_for_status()
+        except requests.RequestException as e:
+            solara.Error(label="Couldn't load categories. Please, refresh the page.")
+            logger.error("Couldn't load categories", exc_info=True)
+
         Button(label="Get data", on_click=show_data)
-        Info("This is only gonna be sample data and first 10 event logs will be shown.", dense=True, classes=["my-3"])
+
+        solara.Info(
+            "This is only gonna be sample data and first 10 products will be shown.",
+            dense=True,
+            classes=["my-3"],
+        )
 
     with Column(classes=["container"]):
         Markdown("# Summary")
-
         if shown_data.value is not None:
             Success(summary_label.value)
-            DataFrame(shown_data.value.reset_index(drop=True), items_per_page=10, scrollable=False)
+            DataFrame(
+                shown_data.value.reset_index(drop=True),
+                items_per_page=10,
+                scrollable=False,
+            )
             FileDownload(
                 saved_data.value.to_csv(index=False),
-                filename=f"{str(uuid.uuid5(name=f'{customer.value}+{event_log_id.value}', namespace=uuid.NAMESPACE_URL))}.csv",
-                label=f"Download file: {saved_data.value.shape[0]} events",
+                filename=f"{str(uuid.uuid5(name=f'{category.value}', namespace=uuid.NAMESPACE_URL))}.csv",
+                label=f"Download list: {saved_data.value.shape[0]} products",
             )
-
-        
+        else:
+            solara.Info("Search results will be shown here.")
