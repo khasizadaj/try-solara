@@ -12,9 +12,7 @@ from solara import (
     Select,
     Markdown,
     Sidebar,
-    Success,
 )
-import openpyxl
 
 logging.config.fileConfig("logging.ini")
 logger = logging.getLogger()
@@ -82,9 +80,7 @@ def Page():
     with Column(classes=["container"]):
         Markdown("# Summary")
         if shown_data.value is not None:
-            Success(summary_label.value)
             DataFrame(
-                shown_data.value.reset_index(drop=True),
                 items_per_page=10,
                 scrollable=False,
             )
