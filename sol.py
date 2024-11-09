@@ -81,6 +81,7 @@ def Page():
         Markdown("# Summary")
         if shown_data.value is not None:
             DataFrame(
+                shown_data.value,
                 items_per_page=10,
                 scrollable=False,
             )
